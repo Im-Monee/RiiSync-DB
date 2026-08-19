@@ -17,7 +17,7 @@ JAAP: Super Mario World
 JACE: F-Zero
 JADD: The Legend of Zelda: A Link to the Past
 JADE: The Legend of Zelda: A Link to the Past
-JADF: The Legend of Zelda: A Link to the Past
+JADF: The Legend of Zelda : A Link to the Past
 JADP: The Legend of Zelda: A Link to the Past
 JAEE: Donkey Kong Country
 JAEP: Donkey Kong Country
@@ -26,11 +26,11 @@ JAVE: Super Metroid
 JAVP: Super Metroid
 JB3P: Harvest Moon
 JBCE: Kirby's Dream Course
-JBDD: Donkey Kong Country 2 - Diddy's Kong Quest
-JBDE: Donkey Kong Country 2 - Diddy's Kong Quest
-JBDP: Donkey Kong Country 2 - Diddy's Kong Quest
-JBPE: Donkey Kong Country 3 - Dixie Kong's Double Trouble!
-JBPP: Donkey Kong Country 3 - Dixie Kong's Double Trouble!
+JBDD: Donkey Kong Country 2: Diddy's Kong-Quest
+JBDE: Donkey Kong Country 2: Diddy's Kong Quest
+JBDP: Donkey Kong Country 2: Diddy's Kong Quest
+JBPE: Donkey Kong Country 3: Dixie Kong's Double Trouble!
+JBPP: Donkey Kong Country 3: Dixie Kong’s Double Trouble!
 JCBE: Super Mario RPG
 JCCE: Kirby Super Star
 JCDE: Kirby's Dream Land 3
@@ -57,7 +57,7 @@ NAFP: F-Zero X
 NAHE: Yoshi's Story
 NAHP: Yoshi's Story
 NAIE: Wave Race 64
-NAJ8: The Legend of Zelda: Ocarina of Time (spanish translation)
+NAJ8: [NOME NON TROVATO]
 NAJ9: [NOME NON TROVATO]
 NAJL: Sin & Punishment
 NAJN: Sin & Punishment
@@ -65,7 +65,7 @@ NAKE: Pokémon Snap
 NAKP: Pokémon Snap
 NALE: Super Smash Bros.
 NALP: Super Smash Bros.
-NAME: Kirby 64 - The Crystal Shards
+NAME: Kirby 64: The Crystal Shards
 NAMP: Kirby 64: The Crystal Shards
 NAOE: 1080 Snowboarding
 NARE: The Legend of Zelda: Majora's Mask
@@ -75,49 +75,49 @@ NAUE: Mario Golf
 NAZE: Mario Party 2
 NAZP: Mario Party 2
 PAAE: Bomberman '93
-QAPJ: Akumajou Dracula X - Chi no Rondo
+QAPJ: 悪魔城ドラキュラX 血の輪廻
 QAPN: Castlevania - Rondo of Blood
 R25E: LEGO Harry Potter: Years 1-4
 R25P: LEGO Harry Potter: Years 1-4
 R26E: Data East Arcade Classics
-R2GJ: Fragile: Sayonara Tsuki no Haikyo
+R2GJ: FRAGILE 〜さよなら月の廃墟〜
 R2GP: Fragile Dreams: Farewell Ruins of the Moon
-R2JJ: Taiko no Tatsujin Wii
+R2JJ: 太鼓の達人Wii
 R2KE: Don King Boxing
 R2KP: Don King Boxing
 R2NE: NASCAR Kart Racing
 R2PE: Super Swing Golf Season 2
 R2TE: Teenage Mutant Ninja Turtles: Smash-Up
 R2VE: Sin & Punishment: Star Successor
-R32J: Metroid Prime 2: Dark Echoes
+R32J: Wiiであそぶ メトロイドプライム2 ダークエコーズ
 R38E: Marvel Super Hero Squad
 R38P: Marvel Super Hero Squad
 R38X: Marvel Super Hero Squad (Walmart)
 R3BE: Samba de Amigo
 R3BP: Samba de Amigo
-R3IJ: Metroid Prime
-R3ME: Metroid: Other M-Maxximum Edition-
+R3IJ: Wiiであそぶ メトロイドプライム
+R3ME: Metroid Prime Trilogy
 R3MP: Metroid Prime Trilogy
 R3NE: Guilty Gear XX Accent Core Plus
 R3OE: Metroid: Other M
-R3OJ: Metroid: Other M
+R3OJ: メトロイド アザーエム
 R3OP: Metroid: Other M
 R3PE: Speed Racer: The Videogame
 R3PP: Speed Racer: The Videogame
 R3RE: Sonic & Sega All-Stars Racing
-R3RP: Sonic & Sega All-Stars Racing
+R3RP: Sonic & SEGA All-Stars Racing
 R3SE: Spider-Man: Web of Shadows
 R3SP: Spider-Man: Web of Shadows
 R42E: The Sims 2: Castaway
 R42P: The Sims 2: Castaway
 R46E: Phantom Brave: We Meet Again
-R46J: Phantom Brave Wii
+R46J: ファントム・ブレイブWii
 R49E: Donkey Kong Jungle Beat
-R49J: Donkey Kong Jungle Beat
+R49J: Wiiであそぶ ドンキーコング ジャングルビート
 R49P: Donkey Kong Jungle Beat
 R4QE: Mario Strikers Charged
 R4QP: Mario Strikers Charged Football
-R4ZJ: Zero: Tsukihami no Kamen
+R4ZJ: 零 ～月蝕の仮面～
 R56E: Astro Boy: The Video Game
 R5PE: Harry Potter and the Order of the Phoenix
 R5PX: Harry Potter and the Order of the Phoenix
@@ -130,12 +130,12 @@ R6BE: de Blob
 R6BP: de Blob
 R6BX: de Blob
 R6KU: Cricket
-R77J: SD Gundam: GGeneration Wars
-R79J: Kidou Senshi Gundam: MS Sensen 0079
+R77J: SDガンダム Gジェネレーション ウォーズ
+R79J: 機動戦士ガンダム MS戦線0079
 R7EE: NiGHTS: Journey of Dreams
 R7EP: NiGHTS: Journey of Dreams
-R7FE: Final Fantasy Fables: Chocobo's Dungeon Undub
-R7FJ: Chocobo no Fushigi na Dungeon: Toki-wasure no Meikyuu
+R7FE: Final Fantasy Fables: Chocobo's Dungeon
+R7FJ: チョコボの不思議なダンジョン 時忘れの迷宮
 R7FP: Final Fantasy Fables: Chocobo's Dungeon
 R7GE: Dragon Ball: Revenge of King Piccolo
 R7GP: Dragon Ball: Revenge of King Piccolo
@@ -143,14 +143,14 @@ R7PE: Punch-Out!!
 R7PP: Punch-Out!!
 R84E: Harvest Moon: Tree of Tranquility
 R8JE: The Lord of the Rings: Aragorn's Quest
-R8PE: Super Paper Isaiah
+R8PE: Super Paper Mario
 R8PP: Super Paper Mario
 R8XE: Jurassic: The Hunted
 R8YE: Cabela's Big Game Hunter 2010
-R92J: Pikmin 2
+R92J: Wiiであそぶ ピクミン2
 R92P: Pikmin 2
 R96E: Klonoa
-R96J: Kaze no Klonoa: Door to Phantomile
+R96J: 風のクロノア -door to phantomile-
 R96P: Klonoa
 R9FE: F1 2009
 R9IE: Pikmin
@@ -159,7 +159,7 @@ R9TE: Tiger Woods PGA Tour 09: All-Play
 R9TP: Tiger Woods PGA Tour 09: All-Play
 R9VE: Cabela's Outdoor Adventures
 RB4E: Resident Evil 4: Wii Edition
-RB4J: Biohazard 4: Wii Edition
+RB4J: バイオハザード 4 Wii edition
 RB4P: Resident Evil 4: Wii Edition
 RB4X: Resident Evil 4: Wii Edition
 RB5E: Brothers in Arms: Double Time
@@ -170,7 +170,7 @@ RBAP: Blazing Angels: Squadrons of WWII
 RBBE: Bomberman Land
 RBBP: Bomberman Land Wii
 RBHE: Resident Evil Archives: Resident Evil Zero
-RBHJ: Biohazard Zero
+RBHJ: バイオハザード 0
 RBHP: Resident Evil Archives: Resident Evil Zero
 RBIE: Harvest Moon: Animal Parade
 RBKE: Boom Blox
@@ -183,13 +183,13 @@ RBNE: Ben 10: Protector of Earth
 RBNX: Ben 10: Protector of Earth
 RBOE: Boogie
 RBOP: Boogie
-RBSJ: Sengoku Basara 2: Heroes: Double Pack (Sengoku Basara 2 - Heroes)
+RBSJ: 戦国BASARA 2 英雄外伝 ダブルパック
 RBUE: Resident Evil: The Umbrella Chronicles
 RBUP: Resident Evil: The Umbrella Chronicles
 RBWE: Battalion Wars 2
 RBWP: Battalion Wars 2
-RBXJ: Bleach: Versus Crusade
-RC5J: Osouji Sentai Clean Keeper
+RBXJ: BLEACH バーサス・クルセイド
+RC5J: お掃除戦隊くりーんきーぱー
 RC8P: Crash: Mind over Mutant
 RCAE: Cars
 RCAP: Cars
@@ -233,7 +233,7 @@ RDKP: Donkey Kong: Jet Race
 RDMP: Minon: Everyday Hero
 RDNE: Dance Dance Revolution: Disney Grooves
 RDQE: Dragon Quest Swords: The Masked Queen and the Tower of Mirrors
-RDQJ: Dragon Quest Swords: Kamen no Joou to Kagami no Tou
+RDQJ: ドラゴンクエストソード -仮面の女王と鏡の塔-
 RDQP: Dragon Quest Swords: The Masked Queen and the Tower of Mirrors
 RDRP: Dewy's Adventure
 RDSE: Dragon Ball Z: Budokai Tenkaichi 3
@@ -243,15 +243,15 @@ RDVE: Driver: Parallel Lines
 RDVP: Driver: Parallel Lines
 RDWE: Dragon Ball Z Budokai Tenkaichi 3 Version! Latino[GAMMA][CUSTOM]
 RDWP: Dragon Ball Z Budokai Tenkaichi 3 Version! Latino Final[CUSTOM]
-RDXE: Dragon Ball Z Budokai Tenkaichi 3 Version! Latino Beta 3
-RDZJ: Disaster: Day of Crisis
+RDXE: Deca Sports
+RDZJ: ディザスター デイ オブ クライシス
 RDZP: Disaster: Day of Crisis
 RE3E: WWII Aces
 RE4E: Resident Evil Archives: Resident Evil
-RE4J: Biohazard
+RE4J: バイオハザード
 RE4P: Resident Evil Archives: Resident Evil
 RE5P: The Munchables
-RE8J: Katekyoo Hitman Reborn! Kindan no Yami no Delta
+RE8J: 家庭教師ヒットマンREBORN! 禁斷の闇のデルタ
 REDE: Red Steel
 REDP: Red Steel
 RENE: Sonic and the Black Knight
@@ -262,20 +262,20 @@ RF2E: Fantastic Four: Rise of the Silver Surfer
 RF2P: Fantastic Four: Rise of the Silver Surfer
 RF3E: Ferrari Challenge: Trofeo Pirelli
 RF3P: Ferrari Challenge: Trofeo Pirelli
-RF7J: Tatsunoko vs. Capcom: Cross Generation of Heroes
+RF7J: タツノコ VS.カプコン クロス・ジェネレーション・オブ・ヒーローズ
 RF8P: FIFA 08
 RFBE: Endless Ocean
 RFBP: Endless Ocean
 RFCE: Final Fantasy Crystal Chronicles: The Crystal Bearers
 RFCP: FINAL FANTASY CRYSTAL CHRONICLES: THE CRYSTAL BEARERS
 RFEE: Fire Emblem: Radiant Dawn
-RFEP: Fire Emblem: Radian Dawn Undub
-RFNE: Wii Fit Channel
-RFNJ: Wii Fit Channel
-RFNP: Wii Fit Channel
+RFEP: Fire Emblem: Radiant Dawn
+RFNE: Wii Fit
+RFNJ: Wiiフィット
+RFNP: Wii Fit
 RFOE: Spider-Man: Friend or Foe
 RFOX: Spider-Man: Friend or Foe
-RFPE: Wii Fit Plus Channel
+RFPE: Wii Fit Plus
 RFQE: FaceBreaker K.O. Party
 RG2E: Guitar Hero III Custom : The Beatles Plus
 RG2P: Guilty Gear XX Accent Core
@@ -287,36 +287,36 @@ RGDE: Target: Terror
 RGFE: The Godfather: Blackhand Edition
 RGFI: Il Padrino: Blackhand Edition
 RGFP: The Godfather: Blackhand Edition
-RGHE: Guitar Hero III Custom : Modern Rock
+RGHE: Guitar Hero 2k18
 RGKE: Guitar Hero III Custom : KoRn
 RGLE: Geometry Wars: Galaxies
 RGLP: Geometry Wars: Galaxies
 RGME: The Grim Adventures of Billy & Mandy
 RGQE: Ghostbusters: The Video Game
-RGSJ: Ghost Squad
+RGSJ: ゴースト・スカッド
 RGTE: GT Pro Series
-RGVE: Guitar Hero Aerosmith Custom: NOT Aerosmith but...
+RGVE: Guitar Hero: Aerosmith
 RGVP: Guitar Hero: Aerosmith
-RGXE: Guitar Hero III Custom: Meteo Last Custom
+RGXE: Game Party
 RGZE: Guitar Hero III Custom : Shred Edition
 RH2E: Hell's Kitchen: The Game
 RH8E: Tomb Raider: Underworld
 RH8P: Tomb Raider: Underworld
-RHAE: Wii Tanks Pro
+RHAE: Wii Play
 RHAP: Wii Play
 RHCE: The History Channel: Battle for the Pacific
 RHDE: The House of the Dead 2 & 3 Return
-RHDJ: The House of the Dead 2 & 3 Return
+RHDJ: ザ ハウス オブ ザ デッド 2&3 リターン
 RHDP: The House of the Dead 2 & 3 Return
-RHHJ: Suzumiya Haruhi no Gekidou
+RHHJ: 涼宮ハルヒの激動
 RHIE: Victorious Boxers: Revolution
 RHIP: Victorious Boxers Challenge
 RHMP: Harvest Moon: Magical Melody
 RHOE: The House of the Dead: Overkill
-RHOJ: The House of the Dead: Overkill
+RHOJ: ザ ハウス オブ ザ デッド： オーバーキル
 RHOP: The House of the Dead: Overkill
 RHQE: Hannah Montana: Spotlight World Tour
-RHRJ: Katekyoo Hitman Reborn! Dream Hyper Battle! Wii
+RHRJ: 家庭教師ヒットマンREBORN! ドリームハイパーバトル！ Wii
 RHSE: Heatseeker
 RHSP: Heatseeker
 RHSX: Heatseeker
@@ -328,10 +328,10 @@ RIJE: G.I. Joe: The Rise of Cobra
 RINE: Dead Rising: Chop Till You Drop
 RINP: Dead Rising: Chop Till You Drop
 RIPE: Shonen Jump One Piece: Unlimited Adventure
-RIPJ: One Piece: Unlimited Adventure
+RIPJ: ワンピース アンリミテッドアドベンチャー
 RIRE: Iron Man
-RIUJ: One Piece: Unlimited Cruise: Episode 2: Mezameru Yuusha
-RIUP: One Piece: Unlimited Cruise 2: Awakening of a Hero
+RIUJ: ワンピース アンリミテッドクルーズ エピソード2 目覚める勇者
+RIUP: One Piece Unlimited Cruise 2: Awakening of a Hero
 RIVE: Ivy the Kiwi?
 RJ2E: 007: Quantum of Solace
 RJ6E: MySims SkyHeroes
@@ -340,14 +340,14 @@ RJAE: Call of Duty: Modern Warfare: Reflex
 RJME: Jumper: Griffin's Story
 RJMP: Jumper: Griffin's Story
 RJOE: Ju-on: The Grudge: Haunted House Simulator
-RJOJ: Kyoufu Taikan: Juon
+RJOJ: 恐怖体感 呪怨
 RJOP: Ju-on: The Grudge
 RJRP: Dance Dance Revolution: Hottest Party 3
 RJZP: SNK Arcade Classics Vol. 1
-RK2E: Trauma Center: New Blood Undub
+RK2E: Trauma Center: New Blood
 RK5E: Kirby's Epic Yarn
 RK5P: Kirby's Epic Yarn
-RKDE: Trauma Center: Second Opinion Undub
+RKDE: Trauma Center: Second Opinion
 RKDP: Trauma Center: Second Opinion
 RKFE: The King of Fighters Collection: The Orochi Saga
 RKLP: Coraline
@@ -356,7 +356,7 @@ RKMP: Mortal Kombat: Armageddon
 RKXE: Rock Band
 RKXP: Rock Band
 RKZE: Lost in Blue: Shipwrecked
-RKZJ: Survival Kids Wii
+RKZJ: サバイバルキッズWii
 RLBE: LEGO Batman: The Videogame
 RLBP: LEGO Batman: The Videogame
 RLDE: Legend of the Dragon
@@ -378,22 +378,22 @@ RM4E: Monster 4x4: World Circuit
 RM4P: Monster 4x4: World Circuit
 RM5E: The Mummy: Tomb of the Dragon Emperor
 RM6E: Baroque
-RM8E: Mario Party 8 CPU Only
+RM8E: Mario Party 8
 RM8P: Mario Party 8
 RM9E: Mushroom Men: The Spore Wars
 RM9P: Mushroom Men: The Spore Wars
 RMAE: Mario Power Tennis
-RMAJ: Mario Tennis GC
+RMAJ: Wiiであそぶ マリオテニスGC
 RMAP: Mario Power Tennis
 RMBE: Mario Super Sluggers
-RMCE: Mario Kart Channel
-RMCP: Mario Kart Channel
+RMCE: Mario Kart Wii
+RMCP: Mario Kart Wii
 RMDE: Madden NFL 07
-RMGE: SPG64 IN SMG!
-RMGJ: Super Mario Galaxy
+RMGE: Super Mario Galaxy
+RMGJ: スーパーマリオギャラクシー
 RMGP: Super Mario Galaxy
-RMHJ: Monster Hunter 3 tri-
-RMKE: Custom Kart 1
+RMHJ: モンスターハンター 3 -tri-
+RMKE: Mario Sports Mix
 RMKP: Mario Sports Mix
 RMLE: Metal Slug Anthology
 RMLP: Metal Slug Anthology
@@ -409,7 +409,7 @@ RN3E: Nicktoons: Attack of the Toybots
 RN9E: Escape from Bug Island
 RNAE: NCAA Football 09: All-Play
 RNCE: SNK Arcade Classics Vol. 1
-RNEJ: Naruto Shippuuden: Gekitou Ninja Taisen! EX3
+RNEJ: NARUTO -ナルト- 疾風伝 激闘忍者大戦！EX3
 RNHE: No More Heroes
 RNHP: No More Heroes
 RNJE: Mini Ninjas
@@ -419,16 +419,16 @@ RNPP: Need for Speed: ProStreet
 RNPY: Need for Speed: ProStreet
 RNRE: Nitrobike
 RNSE: Need for Speed: Carbon
-RNSF: Need for Speed: Carbon
-RNSJ: Need for Speed: Carbon
+RNSF: Need for Speed : Carbon
+RNSJ: ニード・フォー・スピード カーボン
 RNSP: Need for Speed: Carbon
-RNXJ: Naruto Shippuuden: Gekitou Ninja Taisen! EX
+RNXJ: NARUTO -ナルト- 疾風伝 激闘忍者大戦！EX
 RNYE: Naruto: Clash of Ninja Revolution 2
-RNYP: Naruto: Clash of Ninja Revolution 2: European Version
+RNYP: Naruto: Clash of Ninja Revolution 2 - European Version
 RO2E: Ford Racing: Off Road
 RO3E: Little King's Story
 RO3P: Little King's Story
-RO4J: Toushinden
+RO4J: 闘真伝
 ROAE: Overlord: Dark Legend
 ROAP: Overlord: Dark Legend
 ROBE: Obscure: The Aftermath
@@ -436,24 +436,24 @@ ROBP: Obscure II
 RODE: WarioWare: Smooth Moves
 RODP: WarioWare: Smooth Moves
 ROGP: Tak and the Guardians of Gross
-ROHJ: Happy Dance Collection
+ROHJ: ハッピーダンスコレクション
 ROLP: Mario & Sonic at the Olympic Winter Games
-ROMJ: Monster Hunter G
+ROMJ: モンスターハンター G
 RONE: Onechanbara: Bikini Zombie Slayers
-RONJ: Oneechanbara Revolution
+RONJ: お姉チャンバラ Revolution
 RONP: Onechanbara: Bikini Zombie Slayers
 ROPE: Open Season
 ROPP: Open Season
-ROSJ: Takt of Magic
-ROUJ: One Piece: Unlimited Cruise: Episode 1: Nami ni Yureru Hihou
-ROUP: One Piece: Unlimited Cruise 1: The Treasure Beneath the Waves
-ROWE: Ookami
-ROWP: Ookami
+ROSJ: タクトオブマジック
+ROUJ: ワンピース アンリミテッドクルーズ エピソード1 波に揺れる秘宝
+ROUP: One Piece Unlimited Cruise 1: The Treasure Beneath the Waves
+ROWE: Ōkami
+ROWP: Ōkami
 RPBE: Pokémon Battle Revolution
 RPBP: Pokémon Battle Revolution
 RPGE: Rampage: Total Destruction
 RPGP: Rampage: Total Destruction
-RPJE: Arc Rise Fantasia Undub
+RPJE: Arc Rise Fantasia
 RPPE: Prince of Persia: Rival Swords
 RPPP: Prince of Persia: Rival Swords
 RPWX: Prince of Persia: The Forgotten Sands
@@ -479,8 +479,8 @@ RQYE: Fantasy Aquarium World
 RR5E: Ready 2 Rumble: Revolution
 RR9E: WWE SmackDown vs. Raw 2009
 RRBE: Rayman: Raving Rabbids
-RRBJ: Rabbids Party
-RRBP: Rayman: Raving Rabbids
+RRBJ: ラビッツ・パーティー
+RRBP: Rayman Raving Rabbids
 RRKE: Alone in the Dark
 RRRE: Real Heroes: Firefighter
 RRVE: Battle Rage: Mech Conflict
@@ -492,16 +492,16 @@ RS3P: Spider-Man 3
 RS4E: Castle of Shikigami III
 RS5E: Samurai Warriors: Katana
 RS5P: Samurai Warriors: Katana
-RS7J: Eyeshield 21: Field Saikyou no Senshi-tachi
+RS7J: アイシールド21 フィールド最強の戦士たち
 RS9E: Sonic Riders: Zero Gravity
 RS9P: Sonic Riders: Zero Gravity
-RSBE: Super Smash Bros. Legacy XP
-RSBP: Master4Robin's Super Smash Bros. Brawl Hack Pack
+RSBE: Super Smash Bros. Brawl
+RSBP: Super Smash Bros. Brawl
 RSCE: Scarface: The World Is Yours
 RSCP: Scarface: The World Is Yours
-RSDJ: SD Gundam: Scad Hammers
+RSDJ: SDガンダム スカッドハンマーズ
 RSFE: Muramasa: The Demon Blade
-RSFJ: Oboro Muramasa
+RSFJ: 朧村正
 RSFP: Muramasa: The Demon Blade
 RSLE: Soulcalibur Legends
 RSLP: Soulcalibur Legends
@@ -509,8 +509,8 @@ RSME: Super Monkey Ball: Banana Blitz
 RSMP: Super Monkey Ball: Banana Blitz
 RSNE: The Simpsons Game
 RSNP: The Simpsons Game
-RSPE: Luna's Wii Sports
-RSPP: Wii Sports [CAT]
+RSPE: Wii Sports
+RSPP: Wii Sports
 RSRE: Sonic and the Secret Rings
 RSRP: Sonic and the Secret Rings
 RSTE: Star Wars: The Force Unleashed
@@ -522,7 +522,7 @@ RSXE: SSX Blur
 RSXP: SSX Blur
 RT3E: Rockstar Games Presents Table Tennis
 RT3P: Rockstar Games Presents Table Tennis
-RT4E: Tales of Symphonia: Dawn of the New World Undub
+RT4E: Tales of Symphonia: Dawn of the New World
 RT4P: Tales of Symphonia: Dawn of the New World
 RT5E: Sega Superstars Tennis
 RT5P: Sega Superstars Tennis
@@ -537,9 +537,9 @@ RTFX: Transformers: The Game
 RTHE: Tony Hawk's Downhill Jam
 RTHP: Tony Hawk's Downhill Jam
 RTJE: Star Trek: Conquest
-RTME: Dragon ball Z Budokai Tenkaichi 3 WII TSM
+RTME: TMNT
 RTNE: Tenchu: Shadow Assassins
-RTNJ: Tenchu 4
+RTNJ: 天誅4
 RTNP: Tenchu: Shadow Assassins
 RTQP: Monster Trux Offroad
 RTRE: Fishing Master
@@ -551,9 +551,9 @@ RUAE: Monster Jam: Urban Assault
 RUFE: Rune Factory: Frontier
 RUFP: Rune Factory: Frontier
 RUHE: Bakugan: Battle Brawlers
-RUHP: Bakugan: Battle Brawlers
-RUUE: Animal Crossing: City Folk Deluxe
-RUUP: Animal Crossing: Let's Go to the City Deluxe
+RUHP: Bakugan Battle Brawlers
+RUUE: Animal Crossing: City Folk
+RUUP: Animal Crossing: Let's Go to the City
 RUYE: No More Heroes 2: Desperate Struggle
 RUYP: No More Heroes 2: Desperate Struggle
 RV2E: Game Party 2
@@ -561,18 +561,18 @@ RV9P: Avatar: The Legend of Aang: Into the Inferno
 RVIP: Bionicle Heroes
 RVVP: Big Beach Sports
 RW3E: Pirates of the Caribbean: At World's End
-RW3J: Disney Pirates of the Caribbean: At World's End
+RW3J: パイレーツ・オブ・カリビアン ワールド・エンド
 RW3P: Pirates of the Caribbean: At World's End
 RW6P: Dance Dance Revolution: Winx Club
 RW9X: WWE SmackDown vs. Raw 2009
 RWAE: WALL-E
-RWAU: WALL-E
+RWAU: WALL•E
 RWCE: Pinball Hall of Fame: The Williams Collection
 RWGE: We Love Golf!
 RWIE: Wing Island
 RWIP: Wing Island
 RWLE: Wario Land: Shake It!
-RWLJ: Wario Land Shake
+RWLJ: ワリオランドシェイク
 RWLP: Wario Land: The Shake Dimension
 RWOE: Monopoly
 RWSE: Mario & Sonic at the Olympic Games
@@ -591,53 +591,53 @@ RXSP: Dancing Stage: Hottest Party
 RXUE: Surf's Up
 RXZE: Cabela's Dangerous Hunts 2009
 RY2E: Rayman: Raving Rabbids 2
-RY2J: Rabbids Party Returns
-RY2P: Rayman: Raving Rabbids 2
+RY2J: ラビッツ・パーティー リターンズ
+RY2P: Rayman Raving Rabbids 2
 RY3E: Rayman: Raving Rabbids: TV Party
-RY3P: Rayman: Raving Rabbids: TV Party
+RY3P: Rayman Raving Rabbids: TV Party
 RY6E: Walk It Out!
 RYBE: Boom Blox Bash Party
 RYBP: Boom Blox Bash Party
 RYGE: Rygar: The Battle of Argus
 RYOE: Yu-Gi-Oh! 5D's: Wheelie Breakers
-RYOJ: Yu-Gi-Oh! 5D's: Wheelie Breakers
+RYOJ: 遊戯王5D's ウィーリーブレイカーズ
 RYOP: Yu-Gi-Oh! 5D's: Wheelie Breakers
 RYWE: Big Brain Academy: Wii Degree
 RZDE: The Legend of Zelda: Twilight Princess
-RZDP: The Legend of Zelda: Twilight Princess (Catalan Translation)
+RZDP: The Legend of Zelda: Twilight Princess
 RZJE: Dead Space: Extraction
 RZJP: Dead Space: Extraction
 RZKP: Puzzle Kingdoms
 RZPE: Link's Crossbow Training
 RZPP: Link's Crossbow Training
-RZTE: Wii Are Resorting To Violence
-RZTJ: Wii Sports Resort
+RZTE: Wii Sports Resort
+RZTJ: Wiiスポーツ リゾート
 RZTP: Wii Sports Resort
 RZZE: MadWorld
 RZZP: MadWorld
 S2IE: Iron Man 2
 S2IP: Iron Man 2
-S2TJ: Taiko no Tatsujin Wii: Dodoon to 2-daime!
+S2TJ: 太鼓の達人Wii ドドーンと2代目！
 S3BE: Batman: The Brave and the Bold: The Videogame
-S3BP: Batman: The Brave and the Bold: The Videogame
+S3BP: Batman: The Brave and the Bold - The Videogame
 S3GE: Glacier 3: The Meltdown
-S3RJ: Twinkle Queen
+S3RJ: トウィンクルクイーン
 S59E: Samurai Warriors 3
-S59J: Sengoku Musou 3
+S59J: 戦国無双 3
 S75E: Monopoly Streets
-SALE: Disney Alice in Wonderland
-SALP: Disney Alice in Wonderland
-SB3E: Sengoku Basara: Samurai Heroes Undub
+SALE: Alice in Wonderland
+SALP: Alice in Wonderland
+SB3E: Sengoku Basara: Samurai Heroes
 SB3P: Sengoku Basara: Samurai Heroes
-SB4E: Super Mario Galaxy 2 Deluxe
-SB4P: Season Cycle Galaxy
-SB4W: Super Mario Galaxy 2
+SB4E: Super Mario Galaxy 2
+SB4P: Super Mario Galaxy 2
+SB4W: 超級瑪利歐銀河2(中)
 SB6E: Bakugan: Defenders of the Core
-SBAJ: Dragon Quest: Monster Battle Road Victory
+SBAJ: ドラゴンクエスト モンスターバトルロード ビクトリー
 SBDE: Resident Evil: The Darkside Chronicles
 SBHE: Remington Great American Bird Hunt
 SBLE: Boy and His Blob, A
-SBLP: Boy and His Blob, A
+SBLP: A Boy and His Blob
 SBWE: Babysitting Mama
 SC4E: LEGO Star Wars III: The Clone Wars
 SC4P: LEGO Star Wars III: The Clone Wars
@@ -645,16 +645,16 @@ SC7E: Call of Duty: Black Ops
 SC9P: Cabela's Big Game Hunter 2010
 SCAE: Calling
 SCAP: Calling
-SCMJ: Kamen Rider: Climax Heroes OOO
-SCYE: Disney/Pixar Cars 2
-SD9J: SD Gundam: Gashapon Wars
+SCMJ: 仮面ライダー クライマックスヒーローズ オーズ
+SCYE: Cars 2
+SD9J: SDガンダム ガシャポンウォーズ
 SDBE: de Blob 2
 SDBP: de Blob 2
-SDJJ: SD Gundam: GGeneration World
+SDJJ: SDガンダム Gジェネレーション ワールド
 SDWE: Lost in Shadow
-SDWP: Shadow's Tale, A
+SDWP: A Shadow's Tale
 SDYE: Dance Dance Revolution
-SEME: Disney Epic Mickey
+SEME: Epic Mickey
 SEMP: Disney Epic Mickey
 SEMX: Disney Epic Mickey
 SF2P: Star Wars: The Force Unleashed II
@@ -667,23 +667,23 @@ SGAP: Tournament of Legends
 SHDP: How to Train Your Dragon
 SHLP: Silent Hill: Shattered Memories
 SJBE: GoldenEye 007
-SK3E: Trauma Team Undub
+SK3E: Trauma Team
 SKRE: Kamen Rider: Dragon Knight
 SMAE: Marines: Modern Urban Combat
 SMAP: Marines: Modern Urban Combat
 SMBP: Super Monkey Ball: Step & Roll
-SMNE: Super Mario Skyland
-SMNP: Super Mario Skyland
+SMNE: New Super Mario Bros. Wii
+SMNP: New Super Mario Bros. Wii
 SMRE: New Super Mario Bros. Wii: Super Mario Bros. 1 Custom
 SMRP: WWE SmackDown vs. Raw 2011
 SMSE: New Super Mario Bros Wii 12 Sunshine Paradise
-SN4J: Naruto Shippuuden: Ryuu Jin-ki
+SN4J: NARUTO -ナルト- 疾風伝 龍刃記
 SNAE: Cabela's North American Adventures
 SNCE: Sonic Colors
 SNCP: Sonic Colours
 SNJE: NBA Jam
 SNJP: NBA Jam
-SNXJ: Naruto Shippuuden: Gekitou Ninja Taisen! Special
+SNXJ: NARUTO 疾風伝 激闘忍者大戦！ Special
 SPDE: Spider-Man: Shattered Dimensions
 SPDP: Spider-Man: Shattered Dimensions
 SPEE: Speed
@@ -694,12 +694,12 @@ SRGE: Rango
 SRGP: New Super Mario Bros Wii 2 Reggie
 SSZE: Swords
 ST5E: Transformers: Cybertron Adventures
-STGJ: Tales of Graces
+STGJ: テイルズ オブ グレイセス
 STKE: Tatsunoko vs. Capcom: Ultimate All-Stars
 STKP: Tatsunoko vs. Capcom: Ultimate All-Stars
-STQJ: Inazuma Eleven Strikers
-SVME: New Super Mario All-Stars HD
-SVMJ: Super Mario Collection
+STQJ: イナズマイレブン ストライカーズ
+SVME: Super Mario All-Stars
+SVMJ: スーパーマリオコレクション
 SVMP: Super Mario All-Stars
 SXAE: Guitar Hero World Tour
 SXBE: Guitar Hero: Metallica
@@ -718,28 +718,28 @@ WCIP: Crystal Defenders R1
 WCOP: Cocoto Fishing Master
 WCVE: Cave Story
 WD9E: Castlevania - The Adventure ReBirth
-WD9J: Dracula Densetsu ReBirth
+WD9J: ドラキュラ伝説 ReBirth
 WDFE: Defend Your Castle
 WDHE: Art Style - ROTOHEX
 WDOE: Driift Mania
 WERP: My Aquarium
 WF2E: FINAL FANTASY CRYSTAL CHRONICLES: My Life as a Darklord
 WF2P: FINAL FANTASY CRYSTAL CHRONICLES: My Life as a Darklord
-WF4E: Final Fantasy IV - The After Years
-WFCE: Final Fantasy Crystal Chronicles - My Life as a King
-WFCP: Final Fantasy Crystal Chronicles - My Life as a King
+WF4E: FINAL FANTASY IV: THE AFTER YEARS
+WFCE: Final Fantasy Crystal Chronicles: My Life as a King
+WFCP: Final Fantasy Crystal Chronicles: My Life as a King
 WFLE: Fluidity
 WGDE: Gradius ReBirth
 WGOE: World of Goo
 WGSE: Phoenix Wright: Ace Attorney
 WHFE: Heavy Fire - Special Operations
 WICE: NyxQuest - Kindred Spirits
-WICP: NyxQuest - Kindred Spirits
+WICP: NyxQuest: Kindred Spirits
 WINE: The Incredible Maze
 WIVE: Space Invaders Get Even
 WJEE: Jett Rocket
 WKTE: Contra ReBirth
-WKTJ: Contra ReBirth
+WKTJ: 魂斗羅 ReBirth
 WKTP: Contra ReBirth
 WLOE: LostWinds - Winter of the Melodias
 WLOP: LostWinds - Winter of the Melodias
@@ -749,10 +749,10 @@ WLWE: LostWinds
 WM8E: Bomberman Blast
 WMLE: Major League Eating - The Game
 WOBE: Art Style - ORBIENT
-WPHJ: Pokémon Fushigi no Dungeon - Mezase! Hikari no Boukendan
+WPHJ: ポケモン不思議のダンジョン めざせ！光の冒険団
 WPRE: Art Style - CUBELLO
 WPSE: Pokémon Rumble
-WPSJ: Ransen! Pokémon Scramble
+WPSJ: 乱戦！ポケモンスクランブル
 WR9E: Mega Man 9
 WRGE: Rage of the Gladiator
 WRUE: BIT.TRIP RUNNER
