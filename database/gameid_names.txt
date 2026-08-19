@@ -1,0 +1,764 @@
+FA8E: Kirby's Adventure
+FA8P: Kirby's Adventure
+FA9E: Zelda II - The Adventure of Link
+FA9P: Zelda II: The Adventure of Link
+FAKE: The Legend of Zelda
+FAME: Wario's Woods
+FB2L: Super Mario Bros.: The Lost Levels
+FB2N: Super Mario Bros. - The Lost Levels
+FBCE: Excitebike
+FC6E: StarTropics
+FD7E: Mega Man 3
+FFAE: Final Fantasy
+HAWE: Metroid Prime 3 Preview Channel
+JA7E: ActRaiser
+JAAE: Super Mario World
+JAAP: Super Mario World
+JACE: F-Zero
+JADD: The Legend of Zelda: A Link to the Past
+JADE: The Legend of Zelda: A Link to the Past
+JADF: The Legend of Zelda: A Link to the Past
+JADP: The Legend of Zelda: A Link to the Past
+JAEE: Donkey Kong Country
+JAEP: Donkey Kong Country
+JAFE: Sim City
+JAVE: Super Metroid
+JAVP: Super Metroid
+JB3P: Harvest Moon
+JBCE: Kirby's Dream Course
+JBDD: Donkey Kong Country 2 - Diddy's Kong Quest
+JBDE: Donkey Kong Country 2 - Diddy's Kong Quest
+JBDP: Donkey Kong Country 2 - Diddy's Kong Quest
+JBPE: Donkey Kong Country 3 - Dixie Kong's Double Trouble!
+JBPP: Donkey Kong Country 3 - Dixie Kong's Double Trouble!
+JCBE: Super Mario RPG
+JCCE: Kirby Super Star
+JCDE: Kirby's Dream Land 3
+JCJE: Super Punch-Out!!
+JCLE: Secret of Mana
+JCWE: Super Mario Kart
+JDZE: Final Fantasy Mystic Quest
+MAVP: Wonder Boy in Monster World
+MB8E: Phantasy Star II
+MBME: Sonic The Hedgehog 3
+MBMP: Sonic The Hedgehog 3
+MCDE: Sonic & Knuckles
+NAAE: Super Mario 64
+NAAP: Super Mario 64
+NABE: Mario Kart 64
+NABP: Mario Kart 64
+NACE: The Legend of Zelda: Ocarina of Time
+NACP: The Legend of Zelda: Ocarina of Time
+NADE: Star Fox 64
+NAEE: Paper Mario
+NAEP: Paper Mario
+NAFE: F-Zero X
+NAFP: F-Zero X
+NAHE: Yoshi's Story
+NAHP: Yoshi's Story
+NAIE: Wave Race 64
+NAJ8: The Legend of Zelda: Ocarina of Time (spanish translation)
+NAJ9: [NOME NON TROVATO]
+NAJL: Sin & Punishment
+NAJN: Sin & Punishment
+NAKE: Pokémon Snap
+NAKP: Pokémon Snap
+NALE: Super Smash Bros.
+NALP: Super Smash Bros.
+NAME: Kirby 64 - The Crystal Shards
+NAMP: Kirby 64: The Crystal Shards
+NAOE: 1080 Snowboarding
+NARE: The Legend of Zelda: Majora's Mask
+NARP: The Legend of Zelda: Majora's Mask
+NASE: Cruis'n USA
+NAUE: Mario Golf
+NAZE: Mario Party 2
+NAZP: Mario Party 2
+PAAE: Bomberman '93
+QAPJ: Akumajou Dracula X - Chi no Rondo
+QAPN: Castlevania - Rondo of Blood
+R25E: LEGO Harry Potter: Years 1-4
+R25P: LEGO Harry Potter: Years 1-4
+R26E: Data East Arcade Classics
+R2GJ: Fragile: Sayonara Tsuki no Haikyo
+R2GP: Fragile Dreams: Farewell Ruins of the Moon
+R2JJ: Taiko no Tatsujin Wii
+R2KE: Don King Boxing
+R2KP: Don King Boxing
+R2NE: NASCAR Kart Racing
+R2PE: Super Swing Golf Season 2
+R2TE: Teenage Mutant Ninja Turtles: Smash-Up
+R2VE: Sin & Punishment: Star Successor
+R32J: Metroid Prime 2: Dark Echoes
+R38E: Marvel Super Hero Squad
+R38P: Marvel Super Hero Squad
+R38X: Marvel Super Hero Squad (Walmart)
+R3BE: Samba de Amigo
+R3BP: Samba de Amigo
+R3IJ: Metroid Prime
+R3ME: Metroid: Other M-Maxximum Edition-
+R3MP: Metroid Prime Trilogy
+R3NE: Guilty Gear XX Accent Core Plus
+R3OE: Metroid: Other M
+R3OJ: Metroid: Other M
+R3OP: Metroid: Other M
+R3PE: Speed Racer: The Videogame
+R3PP: Speed Racer: The Videogame
+R3RE: Sonic & Sega All-Stars Racing
+R3RP: Sonic & Sega All-Stars Racing
+R3SE: Spider-Man: Web of Shadows
+R3SP: Spider-Man: Web of Shadows
+R42E: The Sims 2: Castaway
+R42P: The Sims 2: Castaway
+R46E: Phantom Brave: We Meet Again
+R46J: Phantom Brave Wii
+R49E: Donkey Kong Jungle Beat
+R49J: Donkey Kong Jungle Beat
+R49P: Donkey Kong Jungle Beat
+R4QE: Mario Strikers Charged
+R4QP: Mario Strikers Charged Football
+R4ZJ: Zero: Tsukihami no Kamen
+R56E: Astro Boy: The Video Game
+R5PE: Harry Potter and the Order of the Phoenix
+R5PX: Harry Potter and the Order of the Phoenix
+R5TE: Grand Slam Tennis
+R5VE: James Cameron's Avatar: The Game
+R5VX: James Cameron's Avatar: The Game
+R5WE: Silent Hill: Shattered Memories
+R66E: Press Your Luck: 2010 Edition
+R6BE: de Blob
+R6BP: de Blob
+R6BX: de Blob
+R6KU: Cricket
+R77J: SD Gundam: GGeneration Wars
+R79J: Kidou Senshi Gundam: MS Sensen 0079
+R7EE: NiGHTS: Journey of Dreams
+R7EP: NiGHTS: Journey of Dreams
+R7FE: Final Fantasy Fables: Chocobo's Dungeon Undub
+R7FJ: Chocobo no Fushigi na Dungeon: Toki-wasure no Meikyuu
+R7FP: Final Fantasy Fables: Chocobo's Dungeon
+R7GE: Dragon Ball: Revenge of King Piccolo
+R7GP: Dragon Ball: Revenge of King Piccolo
+R7PE: Punch-Out!!
+R7PP: Punch-Out!!
+R84E: Harvest Moon: Tree of Tranquility
+R8JE: The Lord of the Rings: Aragorn's Quest
+R8PE: Super Paper Isaiah
+R8PP: Super Paper Mario
+R8XE: Jurassic: The Hunted
+R8YE: Cabela's Big Game Hunter 2010
+R92J: Pikmin 2
+R92P: Pikmin 2
+R96E: Klonoa
+R96J: Kaze no Klonoa: Door to Phantomile
+R96P: Klonoa
+R9FE: F1 2009
+R9IE: Pikmin
+R9IP: Pikmin
+R9TE: Tiger Woods PGA Tour 09: All-Play
+R9TP: Tiger Woods PGA Tour 09: All-Play
+R9VE: Cabela's Outdoor Adventures
+RB4E: Resident Evil 4: Wii Edition
+RB4J: Biohazard 4: Wii Edition
+RB4P: Resident Evil 4: Wii Edition
+RB4X: Resident Evil 4: Wii Edition
+RB5E: Brothers in Arms: Double Time
+RB7E: Bully: Scholarship Edition
+RB7P: Bully: Scholarship Edition
+RBAE: Blazing Angels: Squadrons of WWII
+RBAP: Blazing Angels: Squadrons of WWII
+RBBE: Bomberman Land
+RBBP: Bomberman Land Wii
+RBHE: Resident Evil Archives: Resident Evil Zero
+RBHJ: Biohazard Zero
+RBHP: Resident Evil Archives: Resident Evil Zero
+RBIE: Harvest Moon: Animal Parade
+RBKE: Boom Blox
+RBKP: Boom Blox
+RBLE: Bleach: Shattered Blade
+RBLP: Bleach: Shattered Blade
+RBME: Bust-a-Move Bash!
+RBMP: Bust-A-Move
+RBNE: Ben 10: Protector of Earth
+RBNX: Ben 10: Protector of Earth
+RBOE: Boogie
+RBOP: Boogie
+RBSJ: Sengoku Basara 2: Heroes: Double Pack (Sengoku Basara 2 - Heroes)
+RBUE: Resident Evil: The Umbrella Chronicles
+RBUP: Resident Evil: The Umbrella Chronicles
+RBWE: Battalion Wars 2
+RBWP: Battalion Wars 2
+RBXJ: Bleach: Versus Crusade
+RC5J: Osouji Sentai Clean Keeper
+RC8P: Crash: Mind over Mutant
+RCAE: Cars
+RCAP: Cars
+RCBE: Cabela's Big Game Hunter
+RCBP: Cabela's Big Game Hunter
+RCCE: Cooking Mama: Cook Off
+RCCP: Cooking Mama
+RCDE: Call of Duty 3
+RCDP: Call of Duty 3
+RCDX: Call of Duty 3
+RCGE: Carnival Games
+RCGP: Carnival Funfair Games
+RCIE: CSI: Crime Scene Investigation: Hard Evidence
+RCJE: The Conduit
+RCJP: The Conduit
+RCLE: Disney's Chicken Little: Ace in Action
+RCPE: Kororinpa: Marble Mania
+RCPP: Kororinpa
+RCRE: Cruis'n
+RCRP: Cruis'n
+RCUE: Cabela's Legendary Adventures
+RD2E: Red Steel 2
+RD2P: Red Steel 2
+RD2X: Red Steel 2
+RD4E: Dance Dance Revolution: Hottest Party 2
+RD4P: Dance Dance Revolution: Hottest Party 2
+RDBE: Dragon Ball Z: Budokai Tenkaichi 2
+RDBP: Dragon Ball Z: Budokai Tenkaichi 2
+RDCE: Dragon Ball Z Budokai Tenkaichi 3 Version! Castellano [Beta 2][CUSTOM]
+RDCP: Deadly Creatures
+RDDE: Dance Dance Revolution: Hottest Party
+RDFE: Shaun White Snowboarding: Road Trip
+RDFP: Shaun White Snowboarding: Road Trip
+RDGE: Castlevania Judgment
+RDHE: Destroy All Humans! Big Willy Unleashed
+RDHP: Destroy All Humans! Big Willy Unleashed
+RDJE: Death Jr.: Root of Evil
+RDJP: Death Jr.: Root of Evil
+RDKE: Donkey Kong: Barrel Blast
+RDKP: Donkey Kong: Jet Race
+RDMP: Minon: Everyday Hero
+RDNE: Dance Dance Revolution: Disney Grooves
+RDQE: Dragon Quest Swords: The Masked Queen and the Tower of Mirrors
+RDQJ: Dragon Quest Swords: Kamen no Joou to Kagami no Tou
+RDQP: Dragon Quest Swords: The Masked Queen and the Tower of Mirrors
+RDRP: Dewy's Adventure
+RDSE: Dragon Ball Z: Budokai Tenkaichi 3
+RDSP: Dragon Ball Z: Budokai Tenkaichi 3
+RDTP: Tamagotchi: Party On!
+RDVE: Driver: Parallel Lines
+RDVP: Driver: Parallel Lines
+RDWE: Dragon Ball Z Budokai Tenkaichi 3 Version! Latino[GAMMA][CUSTOM]
+RDWP: Dragon Ball Z Budokai Tenkaichi 3 Version! Latino Final[CUSTOM]
+RDXE: Dragon Ball Z Budokai Tenkaichi 3 Version! Latino Beta 3
+RDZJ: Disaster: Day of Crisis
+RDZP: Disaster: Day of Crisis
+RE3E: WWII Aces
+RE4E: Resident Evil Archives: Resident Evil
+RE4J: Biohazard
+RE4P: Resident Evil Archives: Resident Evil
+RE5P: The Munchables
+RE8J: Katekyoo Hitman Reborn! Kindan no Yami no Delta
+REDE: Red Steel
+REDP: Red Steel
+RENE: Sonic and the Black Knight
+RENP: Sonic and the Black Knight
+REXE: Excite Truck
+REXP: Excite Truck
+RF2E: Fantastic Four: Rise of the Silver Surfer
+RF2P: Fantastic Four: Rise of the Silver Surfer
+RF3E: Ferrari Challenge: Trofeo Pirelli
+RF3P: Ferrari Challenge: Trofeo Pirelli
+RF7J: Tatsunoko vs. Capcom: Cross Generation of Heroes
+RF8P: FIFA 08
+RFBE: Endless Ocean
+RFBP: Endless Ocean
+RFCE: Final Fantasy Crystal Chronicles: The Crystal Bearers
+RFCP: FINAL FANTASY CRYSTAL CHRONICLES: THE CRYSTAL BEARERS
+RFEE: Fire Emblem: Radiant Dawn
+RFEP: Fire Emblem: Radian Dawn Undub
+RFNE: Wii Fit Channel
+RFNJ: Wii Fit Channel
+RFNP: Wii Fit Channel
+RFOE: Spider-Man: Friend or Foe
+RFOX: Spider-Man: Friend or Foe
+RFPE: Wii Fit Plus Channel
+RFQE: FaceBreaker K.O. Party
+RG2E: Guitar Hero III Custom : The Beatles Plus
+RG2P: Guilty Gear XX Accent Core
+RG6E: Boogie SuperStar
+RG6P: Boogie SuperStar
+RGBE: Harvey Birdman: Attorney at Law
+RGCE: MiniCopter Adventure Flight
+RGDE: Target: Terror
+RGFE: The Godfather: Blackhand Edition
+RGFI: Il Padrino: Blackhand Edition
+RGFP: The Godfather: Blackhand Edition
+RGHE: Guitar Hero III Custom : Modern Rock
+RGKE: Guitar Hero III Custom : KoRn
+RGLE: Geometry Wars: Galaxies
+RGLP: Geometry Wars: Galaxies
+RGME: The Grim Adventures of Billy & Mandy
+RGQE: Ghostbusters: The Video Game
+RGSJ: Ghost Squad
+RGTE: GT Pro Series
+RGVE: Guitar Hero Aerosmith Custom: NOT Aerosmith but...
+RGVP: Guitar Hero: Aerosmith
+RGXE: Guitar Hero III Custom: Meteo Last Custom
+RGZE: Guitar Hero III Custom : Shred Edition
+RH2E: Hell's Kitchen: The Game
+RH8E: Tomb Raider: Underworld
+RH8P: Tomb Raider: Underworld
+RHAE: Wii Tanks Pro
+RHAP: Wii Play
+RHCE: The History Channel: Battle for the Pacific
+RHDE: The House of the Dead 2 & 3 Return
+RHDJ: The House of the Dead 2 & 3 Return
+RHDP: The House of the Dead 2 & 3 Return
+RHHJ: Suzumiya Haruhi no Gekidou
+RHIE: Victorious Boxers: Revolution
+RHIP: Victorious Boxers Challenge
+RHMP: Harvest Moon: Magical Melody
+RHOE: The House of the Dead: Overkill
+RHOJ: The House of the Dead: Overkill
+RHOP: The House of the Dead: Overkill
+RHQE: Hannah Montana: Spotlight World Tour
+RHRJ: Katekyoo Hitman Reborn! Dream Hyper Battle! Wii
+RHSE: Heatseeker
+RHSP: Heatseeker
+RHSX: Heatseeker
+RHTE: Manhunt 2
+RHTP: Manhunt 2
+RHWE: Hot Wheels: Beat That!
+RI8E: Brothers in Arms: Double Time (Brothers in Arms - Road to Hill 30)
+RIJE: G.I. Joe: The Rise of Cobra
+RINE: Dead Rising: Chop Till You Drop
+RINP: Dead Rising: Chop Till You Drop
+RIPE: Shonen Jump One Piece: Unlimited Adventure
+RIPJ: One Piece: Unlimited Adventure
+RIRE: Iron Man
+RIUJ: One Piece: Unlimited Cruise: Episode 2: Mezameru Yuusha
+RIUP: One Piece: Unlimited Cruise 2: Awakening of a Hero
+RIVE: Ivy the Kiwi?
+RJ2E: 007: Quantum of Solace
+RJ6E: MySims SkyHeroes
+RJ8E: Indiana Jones and the Staff of Kings
+RJAE: Call of Duty: Modern Warfare: Reflex
+RJME: Jumper: Griffin's Story
+RJMP: Jumper: Griffin's Story
+RJOE: Ju-on: The Grudge: Haunted House Simulator
+RJOJ: Kyoufu Taikan: Juon
+RJOP: Ju-on: The Grudge
+RJRP: Dance Dance Revolution: Hottest Party 3
+RJZP: SNK Arcade Classics Vol. 1
+RK2E: Trauma Center: New Blood Undub
+RK5E: Kirby's Epic Yarn
+RK5P: Kirby's Epic Yarn
+RKDE: Trauma Center: Second Opinion Undub
+RKDP: Trauma Center: Second Opinion
+RKFE: The King of Fighters Collection: The Orochi Saga
+RKLP: Coraline
+RKME: Mortal Kombat: Armageddon
+RKMP: Mortal Kombat: Armageddon
+RKXE: Rock Band
+RKXP: Rock Band
+RKZE: Lost in Blue: Shipwrecked
+RKZJ: Survival Kids Wii
+RLBE: LEGO Batman: The Videogame
+RLBP: LEGO Batman: The Videogame
+RLDE: Legend of the Dragon
+RLFE: Star Wars: The Clone Wars: Lightsaber Duels
+RLGE: LEGO Star Wars: The Complete Saga
+RLGP: LEGO Star Wars: The Complete Saga
+RLIE: LEGO Indiana Jones: The Original Adventures
+RLIP: LEGO Indiana Jones: The Original Adventures
+RLLP: Go West! A Lucky Luke Adventure
+RLRE: Lara Croft Tomb Raider: Anniversary
+RLRP: Lara Croft Tomb Raider: Anniversary
+RLSE: Alien Syndrome
+RLVE: Avatar: The Last Airbender
+RLWP: Ratatouille
+RM2E: Medal of Honor: Heroes 2
+RM3E: Metroid Prime 3: Corruption
+RM3P: Metroid Prime 3: Corruption
+RM4E: Monster 4x4: World Circuit
+RM4P: Monster 4x4: World Circuit
+RM5E: The Mummy: Tomb of the Dragon Emperor
+RM6E: Baroque
+RM8E: Mario Party 8 CPU Only
+RM8P: Mario Party 8
+RM9E: Mushroom Men: The Spore Wars
+RM9P: Mushroom Men: The Spore Wars
+RMAE: Mario Power Tennis
+RMAJ: Mario Tennis GC
+RMAP: Mario Power Tennis
+RMBE: Mario Super Sluggers
+RMCE: Mario Kart Channel
+RMCP: Mario Kart Channel
+RMDE: Madden NFL 07
+RMGE: SPG64 IN SMG!
+RMGJ: Super Mario Galaxy
+RMGP: Super Mario Galaxy
+RMHJ: Monster Hunter 3 tri-
+RMKE: Custom Kart 1
+RMKP: Mario Sports Mix
+RMLE: Metal Slug Anthology
+RMLP: Metal Slug Anthology
+RMMP: Guitar Hero III Custom : Metal Mayhem
+RMOE: Monster Jam
+RMQE: Myth Makers: Orbs of Doom
+RMSE: Marvel: Ultimate Alliance 2
+RMUE: Marvel: Ultimate Alliance
+RMUP: Marvel: Ultimate Alliance
+RMVE: Medal of Honor: Vanguard
+RMVX: Medal of Honor: Vanguard
+RN3E: Nicktoons: Attack of the Toybots
+RN9E: Escape from Bug Island
+RNAE: NCAA Football 09: All-Play
+RNCE: SNK Arcade Classics Vol. 1
+RNEJ: Naruto Shippuuden: Gekitou Ninja Taisen! EX3
+RNHE: No More Heroes
+RNHP: No More Heroes
+RNJE: Mini Ninjas
+RNJP: Mini Ninjas
+RNPE: Need for Speed: ProStreet
+RNPP: Need for Speed: ProStreet
+RNPY: Need for Speed: ProStreet
+RNRE: Nitrobike
+RNSE: Need for Speed: Carbon
+RNSF: Need for Speed: Carbon
+RNSJ: Need for Speed: Carbon
+RNSP: Need for Speed: Carbon
+RNXJ: Naruto Shippuuden: Gekitou Ninja Taisen! EX
+RNYE: Naruto: Clash of Ninja Revolution 2
+RNYP: Naruto: Clash of Ninja Revolution 2: European Version
+RO2E: Ford Racing: Off Road
+RO3E: Little King's Story
+RO3P: Little King's Story
+RO4J: Toushinden
+ROAE: Overlord: Dark Legend
+ROAP: Overlord: Dark Legend
+ROBE: Obscure: The Aftermath
+ROBP: Obscure II
+RODE: WarioWare: Smooth Moves
+RODP: WarioWare: Smooth Moves
+ROGP: Tak and the Guardians of Gross
+ROHJ: Happy Dance Collection
+ROLP: Mario & Sonic at the Olympic Winter Games
+ROMJ: Monster Hunter G
+RONE: Onechanbara: Bikini Zombie Slayers
+RONJ: Oneechanbara Revolution
+RONP: Onechanbara: Bikini Zombie Slayers
+ROPE: Open Season
+ROPP: Open Season
+ROSJ: Takt of Magic
+ROUJ: One Piece: Unlimited Cruise: Episode 1: Nami ni Yureru Hihou
+ROUP: One Piece: Unlimited Cruise 1: The Treasure Beneath the Waves
+ROWE: Ookami
+ROWP: Ookami
+RPBE: Pokémon Battle Revolution
+RPBP: Pokémon Battle Revolution
+RPGE: Rampage: Total Destruction
+RPGP: Rampage: Total Destruction
+RPJE: Arc Rise Fantasia Undub
+RPPE: Prince of Persia: Rival Swords
+RPPP: Prince of Persia: Rival Swords
+RPWX: Prince of Persia: The Forgotten Sands
+RPWZ: Prince of Persia: The Forgotten Sands
+RPXE: EA Playground
+RPXP: EA Playground
+RPYE: Super Swing Golf
+RPYP: Pangya! Golf with Style
+RQ4E: SpongeBob SquarePants: Creature from the Krusty Krab
+RQ4P: SpongeBob SquarePants: Creature from the Krusty Krab
+RQ6E: Cursed Mountain
+RQ6X: Cursed Mountain
+RQGE: MySims Racing
+RQJE: Crash of the Titans
+RQJP: Crash of the Titans
+RQKE: Circus Games
+RQLE: Star Wars: The Clone Wars: Republic Heroes
+RQPE: Cabela's Trophy Bucks
+RQTP: Agatha Christie: And Then There Were None
+RQVE: Pacific Liberator
+RQXP: Asterix at the Olympic Games
+RQYE: Fantasy Aquarium World
+RR5E: Ready 2 Rumble: Revolution
+RR9E: WWE SmackDown vs. Raw 2009
+RRBE: Rayman: Raving Rabbids
+RRBJ: Rabbids Party
+RRBP: Rayman: Raving Rabbids
+RRKE: Alone in the Dark
+RRRE: Real Heroes: Firefighter
+RRVE: Battle Rage: Mech Conflict
+RRYE: Rogue Trooper: Quartz Zone Massacre
+RRYP: Rogue Trooper: Quartz Zone Massacre
+RS2E: Ultimate Duck Hunting
+RS3E: Spider-Man 3
+RS3P: Spider-Man 3
+RS4E: Castle of Shikigami III
+RS5E: Samurai Warriors: Katana
+RS5P: Samurai Warriors: Katana
+RS7J: Eyeshield 21: Field Saikyou no Senshi-tachi
+RS9E: Sonic Riders: Zero Gravity
+RS9P: Sonic Riders: Zero Gravity
+RSBE: Super Smash Bros. Legacy XP
+RSBP: Master4Robin's Super Smash Bros. Brawl Hack Pack
+RSCE: Scarface: The World Is Yours
+RSCP: Scarface: The World Is Yours
+RSDJ: SD Gundam: Scad Hammers
+RSFE: Muramasa: The Demon Blade
+RSFJ: Oboro Muramasa
+RSFP: Muramasa: The Demon Blade
+RSLE: Soulcalibur Legends
+RSLP: Soulcalibur Legends
+RSME: Super Monkey Ball: Banana Blitz
+RSMP: Super Monkey Ball: Banana Blitz
+RSNE: The Simpsons Game
+RSNP: The Simpsons Game
+RSPE: Luna's Wii Sports
+RSPP: Wii Sports [CAT]
+RSRE: Sonic and the Secret Rings
+RSRP: Sonic and the Secret Rings
+RSTE: Star Wars: The Force Unleashed
+RSTP: Star Wars: The Force Unleashed
+RSVE: Sonic Unleashed
+RSVP: Sonic Unleashed
+RSWP: Spyborgs
+RSXE: SSX Blur
+RSXP: SSX Blur
+RT3E: Rockstar Games Presents Table Tennis
+RT3P: Rockstar Games Presents Table Tennis
+RT4E: Tales of Symphonia: Dawn of the New World Undub
+RT4P: Tales of Symphonia: Dawn of the New World
+RT5E: Sega Superstars Tennis
+RT5P: Sega Superstars Tennis
+RT7E: Tiger Woods PGA Tour 07
+RT7P: Tiger Woods PGA Tour 07
+RT8E: Tiger Woods PGA Tour 08
+RT8P: Tiger Woods PGA Tour 08
+RTAP: Tom Clancy's H.A.W.X. 2
+RTDE: The Monkey King: The Legend Begins
+RTFE: Transformers: The Game
+RTFX: Transformers: The Game
+RTHE: Tony Hawk's Downhill Jam
+RTHP: Tony Hawk's Downhill Jam
+RTJE: Star Trek: Conquest
+RTME: Dragon ball Z Budokai Tenkaichi 3 WII TSM
+RTNE: Tenchu: Shadow Assassins
+RTNJ: Tenchu 4
+RTNP: Tenchu: Shadow Assassins
+RTQP: Monster Trux Offroad
+RTRE: Fishing Master
+RTUP: Secret Files: Tunguska
+RTWE: TNA Impact! Total Nonstop Action Wrestling
+RTZE: Zack & Wiki: Quest for Barbaros' Treasure
+RTZP: Zack & Wiki: Quest for Barbaros' Treasure
+RUAE: Monster Jam: Urban Assault
+RUFE: Rune Factory: Frontier
+RUFP: Rune Factory: Frontier
+RUHE: Bakugan: Battle Brawlers
+RUHP: Bakugan: Battle Brawlers
+RUUE: Animal Crossing: City Folk Deluxe
+RUUP: Animal Crossing: Let's Go to the City Deluxe
+RUYE: No More Heroes 2: Desperate Struggle
+RUYP: No More Heroes 2: Desperate Struggle
+RV2E: Game Party 2
+RV9P: Avatar: The Legend of Aang: Into the Inferno
+RVIP: Bionicle Heroes
+RVVP: Big Beach Sports
+RW3E: Pirates of the Caribbean: At World's End
+RW3J: Disney Pirates of the Caribbean: At World's End
+RW3P: Pirates of the Caribbean: At World's End
+RW6P: Dance Dance Revolution: Winx Club
+RW9X: WWE SmackDown vs. Raw 2009
+RWAE: WALL-E
+RWAU: WALL-E
+RWCE: Pinball Hall of Fame: The Williams Collection
+RWGE: We Love Golf!
+RWIE: Wing Island
+RWIP: Wing Island
+RWLE: Wario Land: Shake It!
+RWLJ: Wario Land Shake
+RWLP: Wario Land: The Shake Dimension
+RWOE: Monopoly
+RWSE: Mario & Sonic at the Olympic Games
+RWSP: Mario & Sonic at the Olympic Games
+RWUE: X-Men Origins: Wolverine
+RWUP: X-Men Origins: Wolverine
+RWWE: Guitar Hero III Custom : WWE The Hits
+RWWX: WWE SmackDown vs. Raw 2008
+RX3E: ExciteBots: Trick Racing
+RX9E: Need for Speed: Undercover
+RX9P: Need for Speed: Undercover
+RX9Y: Need for Speed: Undercover
+RXAE: WWE SmackDown vs. Raw 2010
+RXIE: Transformers: Revenge of the Fallen
+RXSP: Dancing Stage: Hottest Party
+RXUE: Surf's Up
+RXZE: Cabela's Dangerous Hunts 2009
+RY2E: Rayman: Raving Rabbids 2
+RY2J: Rabbids Party Returns
+RY2P: Rayman: Raving Rabbids 2
+RY3E: Rayman: Raving Rabbids: TV Party
+RY3P: Rayman: Raving Rabbids: TV Party
+RY6E: Walk It Out!
+RYBE: Boom Blox Bash Party
+RYBP: Boom Blox Bash Party
+RYGE: Rygar: The Battle of Argus
+RYOE: Yu-Gi-Oh! 5D's: Wheelie Breakers
+RYOJ: Yu-Gi-Oh! 5D's: Wheelie Breakers
+RYOP: Yu-Gi-Oh! 5D's: Wheelie Breakers
+RYWE: Big Brain Academy: Wii Degree
+RZDE: The Legend of Zelda: Twilight Princess
+RZDP: The Legend of Zelda: Twilight Princess (Catalan Translation)
+RZJE: Dead Space: Extraction
+RZJP: Dead Space: Extraction
+RZKP: Puzzle Kingdoms
+RZPE: Link's Crossbow Training
+RZPP: Link's Crossbow Training
+RZTE: Wii Are Resorting To Violence
+RZTJ: Wii Sports Resort
+RZTP: Wii Sports Resort
+RZZE: MadWorld
+RZZP: MadWorld
+S2IE: Iron Man 2
+S2IP: Iron Man 2
+S2TJ: Taiko no Tatsujin Wii: Dodoon to 2-daime!
+S3BE: Batman: The Brave and the Bold: The Videogame
+S3BP: Batman: The Brave and the Bold: The Videogame
+S3GE: Glacier 3: The Meltdown
+S3RJ: Twinkle Queen
+S59E: Samurai Warriors 3
+S59J: Sengoku Musou 3
+S75E: Monopoly Streets
+SALE: Disney Alice in Wonderland
+SALP: Disney Alice in Wonderland
+SB3E: Sengoku Basara: Samurai Heroes Undub
+SB3P: Sengoku Basara: Samurai Heroes
+SB4E: Super Mario Galaxy 2 Deluxe
+SB4P: Season Cycle Galaxy
+SB4W: Super Mario Galaxy 2
+SB6E: Bakugan: Defenders of the Core
+SBAJ: Dragon Quest: Monster Battle Road Victory
+SBDE: Resident Evil: The Darkside Chronicles
+SBHE: Remington Great American Bird Hunt
+SBLE: Boy and His Blob, A
+SBLP: Boy and His Blob, A
+SBWE: Babysitting Mama
+SC4E: LEGO Star Wars III: The Clone Wars
+SC4P: LEGO Star Wars III: The Clone Wars
+SC7E: Call of Duty: Black Ops
+SC9P: Cabela's Big Game Hunter 2010
+SCAE: Calling
+SCAP: Calling
+SCMJ: Kamen Rider: Climax Heroes OOO
+SCYE: Disney/Pixar Cars 2
+SD9J: SD Gundam: Gashapon Wars
+SDBE: de Blob 2
+SDBP: de Blob 2
+SDJJ: SD Gundam: GGeneration World
+SDWE: Lost in Shadow
+SDWP: Shadow's Tale, A
+SDYE: Dance Dance Revolution
+SEME: Disney Epic Mickey
+SEMP: Disney Epic Mickey
+SEMX: Disney Epic Mickey
+SF2P: Star Wars: The Force Unleashed II
+SF4E: FlatOut
+SF8E: Donkey Kong Country Returns
+SF8P: Donkey Kong Country Returns
+SFUE: Star Wars: The Force Unleashed II
+SGAE: Tournament of Legends
+SGAP: Tournament of Legends
+SHDP: How to Train Your Dragon
+SHLP: Silent Hill: Shattered Memories
+SJBE: GoldenEye 007
+SK3E: Trauma Team Undub
+SKRE: Kamen Rider: Dragon Knight
+SMAE: Marines: Modern Urban Combat
+SMAP: Marines: Modern Urban Combat
+SMBP: Super Monkey Ball: Step & Roll
+SMNE: Super Mario Skyland
+SMNP: Super Mario Skyland
+SMRE: New Super Mario Bros. Wii: Super Mario Bros. 1 Custom
+SMRP: WWE SmackDown vs. Raw 2011
+SMSE: New Super Mario Bros Wii 12 Sunshine Paradise
+SN4J: Naruto Shippuuden: Ryuu Jin-ki
+SNAE: Cabela's North American Adventures
+SNCE: Sonic Colors
+SNCP: Sonic Colours
+SNJE: NBA Jam
+SNJP: NBA Jam
+SNXJ: Naruto Shippuuden: Gekitou Ninja Taisen! Special
+SPDE: Spider-Man: Shattered Dimensions
+SPDP: Spider-Man: Shattered Dimensions
+SPEE: Speed
+SPRE: New Super Mario Bros. Wii 14 Project Mario
+SPXP: Prince of Persia: The Forgotten Sands + 1989
+SPZE: Pizza Delivery Boy
+SRGE: Rango
+SRGP: New Super Mario Bros Wii 2 Reggie
+SSZE: Swords
+ST5E: Transformers: Cybertron Adventures
+STGJ: Tales of Graces
+STKE: Tatsunoko vs. Capcom: Ultimate All-Stars
+STKP: Tatsunoko vs. Capcom: Ultimate All-Stars
+STQJ: Inazuma Eleven Strikers
+SVME: New Super Mario All-Stars HD
+SVMJ: Super Mario Collection
+SVMP: Super Mario All-Stars
+SXAE: Guitar Hero World Tour
+SXBE: Guitar Hero: Metallica
+SXFP: Band Hero
+W2ME: Blaster Master - Overdrive
+W3TE: Pearl Harbor - Episode 1 - Red Sun Rising
+WALE: Art Style - light trax
+WALP: Art Style: light trax
+WB5E: Block Breaker Deluxe
+WB7E: Midnight Pool
+WBME: My Pokémon Ranch
+WC2E: Crystal Defenders R2
+WC2P: Crystal Defenders R2
+WCIE: Crystal Defenders R1
+WCIP: Crystal Defenders R1
+WCOP: Cocoto Fishing Master
+WCVE: Cave Story
+WD9E: Castlevania - The Adventure ReBirth
+WD9J: Dracula Densetsu ReBirth
+WDFE: Defend Your Castle
+WDHE: Art Style - ROTOHEX
+WDOE: Driift Mania
+WERP: My Aquarium
+WF2E: FINAL FANTASY CRYSTAL CHRONICLES: My Life as a Darklord
+WF2P: FINAL FANTASY CRYSTAL CHRONICLES: My Life as a Darklord
+WF4E: Final Fantasy IV - The After Years
+WFCE: Final Fantasy Crystal Chronicles - My Life as a King
+WFCP: Final Fantasy Crystal Chronicles - My Life as a King
+WFLE: Fluidity
+WGDE: Gradius ReBirth
+WGOE: World of Goo
+WGSE: Phoenix Wright: Ace Attorney
+WHFE: Heavy Fire - Special Operations
+WICE: NyxQuest - Kindred Spirits
+WICP: NyxQuest - Kindred Spirits
+WINE: The Incredible Maze
+WIVE: Space Invaders Get Even
+WJEE: Jett Rocket
+WKTE: Contra ReBirth
+WKTJ: Contra ReBirth
+WKTP: Contra ReBirth
+WLOE: LostWinds - Winter of the Melodias
+WLOP: LostWinds - Winter of the Melodias
+WLTE: LIT
+WLTP: LIT
+WLWE: LostWinds
+WM8E: Bomberman Blast
+WMLE: Major League Eating - The Game
+WOBE: Art Style - ORBIENT
+WPHJ: Pokémon Fushigi no Dungeon - Mezase! Hikari no Boukendan
+WPRE: Art Style - CUBELLO
+WPSE: Pokémon Rumble
+WPSJ: Ransen! Pokémon Scramble
+WR9E: Mega Man 9
+WRGE: Rage of the Gladiator
+WRUE: BIT.TRIP RUNNER
+WRXE: Mega Man 10
+WSNE: Sonic the Hedgehog 4 - Episode I
+WTRE: Bit. Trip Beat
+WTTE: Toki Tori
+WTTP: Toki Tori
+WWRE: Excitebike: World Rally
