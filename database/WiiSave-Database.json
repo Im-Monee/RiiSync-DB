@@ -9166,5 +9166,1589 @@
     },
     "animated": false,
     "timestamp": "2026-08-19 12:43:10"
+  },
+  "VBIN": {
+    "game_name": "Boku to Sim no Machi Agent - Gokuaku Shachou kara Sekai o Sukue Daisakusen!",
+    "save_folder": "Boku to Sim no Machi Agent - Gokuaku Shachou kara Sekai o Sukue Daisakusen! / Europe - BeRnYGP - PAL - Game Finished (Maybe 100%)",
+    "game_id": "VBIN",
+    "region": "Giappone (import USA)",
+    "output_dir": "VBIN",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 17:51:25"
+  },
+  "RJRE": {
+    "game_name": "Dance Dance Revolution - Hottest Party 3",
+    "save_folder": "Dance Dance Revolution - Hottest Party 3 / USA - MichaelTanzer - DDR HOTTEST PARTY 3 Everything Unlocked (100%)",
+    "game_id": "RJRE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RJRE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 17:53:13"
+  },
+  "WIIS": {
+    "game_name": "Driver - Parallel Lines",
+    "save_folder": "Driver - Parallel Lines / Europe - gjelt - 100%",
+    "game_id": "WIIS",
+    "region": "Spagna (PAL)",
+    "output_dir": "WIIS",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 17:54:43"
+  },
+  "LYNX": {
+    "game_name": "Final Fantasy Crystal Chronicles - Echoes of Time",
+    "save_folder": "Final Fantasy Crystal Chronicles - Echoes of Time / Europe - Link-zero - Pal - Not.bin 35% of Game Completed",
+    "game_id": "LYNX",
+    "region": "PAL (varie)",
+    "output_dir": "LYNX",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 17:55:26"
+  },
+  "0006": {
+    "game_name": "Mario Kart Wii",
+    "save_folder": "Mario Kart Wii / Europe - shaunf1992 - Complete",
+    "game_id": "0006",
+    "region": "Sconosciuta (6)",
+    "output_dir": "0006",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 17:59:38"
+  },
+  "SNHP": {
+    "game_name": "Need for Speed - Hot Pursuit",
+    "save_folder": "Need for Speed - Hot Pursuit / Europe - WII KID - GAME IS 100% COMPLETED",
+    "game_id": "SNHP",
+    "region": "Europa (PAL)",
+    "output_dir": "SNHP",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:02:14"
+  },
+  "SONI": {
+    "game_name": "Sonic Colors",
+    "save_folder": "Sonic Colors / Japan - sinokera - JPN clear save",
+    "game_id": "SONI",
+    "region": "Italia (PAL)",
+    "output_dir": "SONI",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:08:11"
+  },
+  "HABA": {
+    "game_name": "Sonic The Hedgehog 3",
+    "save_folder": "Sonic The Hedgehog 3 / USA - Sonicth - Save & game   1",
+    "game_id": "HABA",
+    "region": "Regione libera",
+    "output_dir": "HABA",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:08:20"
+  },
+  "101J": {
+    "game_name": "Tatsunoko vs. Capcom - Ultimate All-Stars",
+    "save_folder": "Tatsunoko vs. Capcom - Ultimate All-Stars / USA - GIRUGAMARC - Tatsunoko vs Capcom: ULTIMATE ALL STARS: all characters (savegame manager)",
+    "game_id": "101J",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "101J",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:12:14"
+  },
+  "RNOP": {
+    "game_name": "Another Code - R - A Journey into Lost Memories",
+    "save_folder": "Another Code - R - A Journey into Lost Memories / EU - 513402",
+    "game_id": "RNOP",
+    "region": "Europa (PAL)",
+    "output_dir": "RNOP",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:22:48"
+  },
+  "R9XE": {
+    "game_name": "Arcade Zone",
+    "save_folder": "Arcade Zone / US - 463802",
+    "game_id": "R9XE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "R9XE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:22:53"
+  },
+  "S3AE": {
+    "game_name": "Attack of the Movies 3D",
+    "save_folder": "Attack of the Movies 3D / US - 508202",
+    "game_id": "S3AE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "S3AE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:22:58"
+  },
+  "PAHE": {
+    "game_name": "Battle Lode Runner",
+    "save_folder": "Battle Lode Runner / US - 59002",
+    "game_id": "PAHE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "PAHE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:23:06"
+  },
+  "RHXE": {
+    "game_name": "Battle of the Bands",
+    "save_folder": "Battle of the Bands / US - 173402",
+    "game_id": "RHXE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RHXE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:23:07"
+  },
+  "RWTE": {
+    "game_name": "Ben 10 - Alien Force",
+    "save_folder": "Ben 10 - Alien Force / US - 459402",
+    "game_id": "RWTE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RWTE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:23:08"
+  },
+  "RBGE": {
+    "game_name": "Bigs, The",
+    "save_folder": "Bigs, The / US - 184602",
+    "game_id": "RBGE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RBGE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:23:11"
+  },
+  "WVBE": {
+    "game_name": "Bit.Trip Void",
+    "save_folder": "Bit.Trip Void / US - 470602",
+    "game_id": "WVBE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "WVBE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:23:13"
+  },
+  "JBKE": {
+    "game_name": "Breath of Fire II",
+    "save_folder": "Breath of Fire II / US - 572202",
+    "game_id": "JBKE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "JBKE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:23:43"
+  },
+  "RSJP": {
+    "game_name": "Broken Sword - Shadows of the Templars (Director's Cut)",
+    "save_folder": "Broken Sword - Shadows of the Templars (Director's Cut) / EU - 349802",
+    "game_id": "RSJP",
+    "region": "Europa (PAL)",
+    "output_dir": "RSJP",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:23:44"
+  },
+  "QAPL": {
+    "game_name": "Castlevania - Rondo of Blood",
+    "save_folder": "Castlevania - Rondo of Blood / EU - 514202",
+    "game_id": "QAPL",
+    "region": "Giappone (import Europa)",
+    "output_dir": "QAPL",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:23:54"
+  },
+  "RCIP": {
+    "game_name": "CSI - Crime Scene Investigation - Hard Evidence",
+    "save_folder": "CSI - Crime Scene Investigation - Hard Evidence / EU - 164202",
+    "game_id": "RCIP",
+    "region": "Europa (PAL)",
+    "output_dir": "RCIP",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:24:03"
+  },
+  "R5UP": {
+    "game_name": "CSI - Deadly Intent",
+    "save_folder": "CSI - Deadly Intent / EU - 476202",
+    "game_id": "R5UP",
+    "region": "Europa (PAL)",
+    "output_dir": "R5UP",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:24:04"
+  },
+  "R3VE": {
+    "game_name": "Deer Drive",
+    "save_folder": "Deer Drive / US - 461002",
+    "game_id": "R3VE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "R3VE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:24:18"
+  },
+  "RPSE": {
+    "game_name": "Disney Princess - Enchanted Journey",
+    "save_folder": "Disney Princess - Enchanted Journey / US - 111002",
+    "game_id": "RPSE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RPSE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:24:25"
+  },
+  "R2DE": {
+    "game_name": "Dokapon Kingdom",
+    "save_folder": "Dokapon Kingdom / US - 443002",
+    "game_id": "R2DE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "R2DE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:24:27"
+  },
+  "RDSJ": {
+    "game_name": "Dragon Ball Z - Budokai Tenkaichi 3",
+    "save_folder": "Dragon Ball Z - Budokai Tenkaichi 3 / JP - 77002",
+    "game_id": "RDSJ",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "RDSJ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:24:46"
+  },
+  "WEDE": {
+    "game_name": "Eduardo the Samurai Toaster",
+    "save_folder": "Eduardo the Samurai Toaster / US - 478202",
+    "game_id": "WEDE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "WEDE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:24:57"
+  },
+  "RCVE": {
+    "game_name": "Far Cry Vengeance",
+    "save_folder": "Far Cry Vengeance / US - 159402",
+    "game_id": "RCVE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RCVE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:25:13"
+  },
+  "JC8E": {
+    "game_name": "Final Fantasy II (SNES)",
+    "save_folder": "Final Fantasy II (SNES) / US - 481802",
+    "game_id": "JC8E",
+    "region": "USA (NTSC-U)",
+    "output_dir": "JC8E",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:25:29"
+  },
+  "R2GE": {
+    "game_name": "Fragile Dreams - Farewell Ruins of the Moon",
+    "save_folder": "Fragile Dreams - Farewell Ruins of the Moon / US - 458602",
+    "game_id": "R2GE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "R2GE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:25:46"
+  },
+  "R3EE": {
+    "game_name": "Game Party 3",
+    "save_folder": "Game Party 3 / US - 483402",
+    "game_id": "R3EE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "R3EE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:25:48"
+  },
+  "SGRE": {
+    "game_name": "Grease - The Official Video Game",
+    "save_folder": "Grease - The Official Video Game / US - 510202",
+    "game_id": "SGRE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SGRE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:25:55"
+  },
+  "R3LE": {
+    "game_name": "Green Lantern - Rise of the Manhunters",
+    "save_folder": "Green Lantern - Rise of the Manhunters / US - 567402",
+    "game_id": "R3LE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "R3LE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:25:56"
+  },
+  "SG9E": {
+    "game_name": "Gremlins Gizmo",
+    "save_folder": "Gremlins Gizmo / US - 562202",
+    "game_id": "SG9E",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SG9E",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:25:57"
+  },
+  "RGTP": {
+    "game_name": "GT Pro Series",
+    "save_folder": "GT Pro Series / EU - 103402",
+    "game_id": "RGTP",
+    "region": "Europa (PAL)",
+    "output_dir": "RGTP",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:25:58"
+  },
+  "RJ8P": {
+    "game_name": "Indiana Jones and the Staff of Kings",
+    "save_folder": "Indiana Jones and the Staff of Kings / EU - 485802",
+    "game_id": "RJ8P",
+    "region": "Europa (PAL)",
+    "output_dir": "RJ8P",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:27:40"
+  },
+  "RICE": {
+    "game_name": "Iron Chef America - Supreme Cuisine",
+    "save_folder": "Iron Chef America - Supreme Cuisine / US - 570602",
+    "game_id": "RICE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RICE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:27:41"
+  },
+  "SKHJ": {
+    "game_name": "Kamen Rider - Chou Climax Heroes",
+    "save_folder": "Kamen Rider - Chou Climax Heroes / JP - 574602",
+    "game_id": "SKHJ",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "SKHJ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:27:43"
+  },
+  "SKMJ": {
+    "game_name": "Kamen Rider - Climax Heroes W",
+    "save_folder": "Kamen Rider - Climax Heroes W / JP - 486602",
+    "game_id": "SKMJ",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "SKMJ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:27:44"
+  },
+  "S7CJ": {
+    "game_name": "Kamen Rider Climax Heroes Fourze",
+    "save_folder": "Kamen Rider Climax Heroes Fourze / JP - 559002",
+    "game_id": "S7CJ",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "S7CJ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:27:45"
+  },
+  "S72E": {
+    "game_name": "Kirby's Dream Collection - Special Edition",
+    "save_folder": "Kirby's Dream Collection - Special Edition / US - 574202",
+    "game_id": "S72E",
+    "region": "USA (NTSC-U)",
+    "output_dir": "S72E",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:27:56"
+  },
+  "SUKE": {
+    "game_name": "Kirby's Return to Dream Land",
+    "save_folder": "Kirby's Return to Dream Land / US - 547802",
+    "game_id": "SUKE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SUKE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:27:59"
+  },
+  "WKCE": {
+    "game_name": "Kyotokei",
+    "save_folder": "Kyotokei / US - 558602",
+    "game_id": "WKCE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "WKCE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:28:05"
+  },
+  "SOUE": {
+    "game_name": "Legend of Zelda - Skyward Sword, The",
+    "save_folder": "Legend of Zelda - Skyward Sword, The / EU - 556602",
+    "game_id": "SOUE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SOUE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:28:21"
+  },
+  "SOUP": {
+    "game_name": "Legend of Zelda - Skyward Sword, The",
+    "save_folder": "Legend of Zelda - Skyward Sword, The / EU - 557002",
+    "game_id": "SOUP",
+    "region": "Europa (PAL)",
+    "output_dir": "SOUP",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:28:21"
+  },
+  "S7AE": {
+    "game_name": "LEGO Batman 2 - DC Super Heroes",
+    "save_folder": "LEGO Batman 2 - DC Super Heroes / US - 561802",
+    "game_id": "S7AE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "S7AE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:28:57"
+  },
+  "RLHE": {
+    "game_name": "Little League World Series Baseball 2008",
+    "save_folder": "Little League World Series Baseball 2008 / US - 460202",
+    "game_id": "RLHE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RLHE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:29:04"
+  },
+  "SSQE": {
+    "game_name": "Mario Party 9",
+    "save_folder": "Mario Party 9 / US - 563002",
+    "game_id": "SSQE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SSQE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:29:22"
+  },
+  "NATE": {
+    "game_name": "Mario Tennis",
+    "save_folder": "Mario Tennis / US - 488602",
+    "game_id": "NATE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "NATE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:29:28"
+  },
+  "WERE": {
+    "game_name": "My Aquarium",
+    "save_folder": "My Aquarium / US - 446202",
+    "game_id": "WERE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "WERE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:29:49"
+  },
+  "RNXP": {
+    "game_name": "Naruto - Clash of Ninja Revolution",
+    "save_folder": "Naruto - Clash of Ninja Revolution / EU - 101402",
+    "game_id": "RNXP",
+    "region": "Europa (PAL)",
+    "output_dir": "RNXP",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:29:50"
+  },
+  "RNEE": {
+    "game_name": "Naruto Shippuden - Clash of Ninja Revolution III",
+    "save_folder": "Naruto Shippuden - Clash of Ninja Revolution III / US - 523802",
+    "game_id": "RNEE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RNEE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:29:52"
+  },
+  "RNYJ": {
+    "game_name": "Naruto Shippuden Gekitou Ninja Taisen EX2",
+    "save_folder": "Naruto Shippuden Gekitou Ninja Taisen EX2 / JP - 87802",
+    "game_id": "RNYJ",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "RNYJ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:29:55"
+  },
+  "PB2E": {
+    "game_name": "Neutopia II",
+    "save_folder": "Neutopia II / US - 513002",
+    "game_id": "PB2E",
+    "region": "USA (NTSC-U)",
+    "output_dir": "PB2E",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:30:06"
+  },
+  "SHYE": {
+    "game_name": "NHL Slapshot",
+    "save_folder": "NHL Slapshot / US - 565402",
+    "game_id": "SHYE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SHYE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:30:16"
+  },
+  "RNHJ": {
+    "game_name": "No More Heroes",
+    "save_folder": "No More Heroes / JP - 83002",
+    "game_id": "RNHJ",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "RNHJ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:30:17"
+  },
+  "LADE": {
+    "game_name": "Phantasy Star",
+    "save_folder": "Phantasy Star / US - 539402",
+    "game_id": "LADE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "LADE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:30:41"
+  },
+  "W2GE": {
+    "game_name": "Phoenix Wright - Ace Attorney Justice for All",
+    "save_folder": "Phoenix Wright - Ace Attorney Justice for All / US - 567002",
+    "game_id": "W2GE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "W2GE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:30:45"
+  },
+  "W3GE": {
+    "game_name": "Phoenix Wright - Ace Attorney Trials and Tribulations",
+    "save_folder": "Phoenix Wright - Ace Attorney Trials and Tribulations / US - 566602",
+    "game_id": "W3GE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "W3GE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:30:46"
+  },
+  "RRPE": {
+    "game_name": "Price is Right, The",
+    "save_folder": "Price is Right, The / US - 169002",
+    "game_id": "RRPE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RRPE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:30:55"
+  },
+  "SL2P": {
+    "game_name": "Project Zero 2 - Wii Edition",
+    "save_folder": "Project Zero 2 - Wii Edition / EU - 563802",
+    "game_id": "SL2P",
+    "region": "Europa (PAL)",
+    "output_dir": "SL2P",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:31:02"
+  },
+  "SOME": {
+    "game_name": "Rhythm Heaven Fever",
+    "save_folder": "Rhythm Heaven Fever / US - 563402",
+    "game_id": "SOME",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SOME",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:31:28"
+  },
+  "SAKP": {
+    "game_name": "Sakura Wars - So Long, My Love",
+    "save_folder": "Sakura Wars - So Long, My Love / EU - 524202",
+    "game_id": "SAKP",
+    "region": "Europa (PAL)",
+    "output_dir": "SAKP",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:31:43"
+  },
+  "RZFP": {
+    "game_name": "Secret Files 2 - Puritas Cordis",
+    "save_folder": "Secret Files 2 - Puritas Cordis / EU - 497402",
+    "game_id": "RZFP",
+    "region": "Europa (PAL)",
+    "output_dir": "RZFP",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:31:49"
+  },
+  "SB3J": {
+    "game_name": "Sengoku Basara - Samurai Heroes",
+    "save_folder": "Sengoku Basara - Samurai Heroes / JP - 557802",
+    "game_id": "SB3J",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "SB3J",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:31:53"
+  },
+  "S3HJ": {
+    "game_name": "Sengoku Basara 3 Utage",
+    "save_folder": "Sengoku Basara 3 Utage / JP - 562602",
+    "game_id": "S3HJ",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "S3HJ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:31:55"
+  },
+  "WHPE": {
+    "game_name": "Sexy Poker",
+    "save_folder": "Sexy Poker / US - 497802",
+    "game_id": "WHPE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "WHPE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:31:56"
+  },
+  "WBXE": {
+    "game_name": "Strong Bad's Cool Game for Attractive People Episode 1 - Homestar Ruiner",
+    "save_folder": "Strong Bad's Cool Game for Attractive People Episode 1 - Homestar Ruiner / US - 125402",
+    "game_id": "WBXE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "WBXE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:32:31"
+  },
+  "WBYE": {
+    "game_name": "Strong Bad's Cool Game for Attractive People Episode 2 - Strong Badia the Free",
+    "save_folder": "Strong Bad's Cool Game for Attractive People Episode 2 - Strong Badia the Free / US - 154202",
+    "game_id": "WBYE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "WBYE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:32:35"
+  },
+  "WBZE": {
+    "game_name": "Strong Bad's Cool Game for Attractive People Episode 3 - Baddest of the Bands",
+    "save_folder": "Strong Bad's Cool Game for Attractive People Episode 3 - Baddest of the Bands / US - 161802",
+    "game_id": "WBZE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "WBZE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:32:36"
+  },
+  "WB2E": {
+    "game_name": "Strong Bad's Cool Game for Attractive People Episode 4 - Dangeresque 3 - The Criminal Projective",
+    "save_folder": "Strong Bad's Cool Game for Attractive People Episode 4 - Dangeresque 3 - The Criminal Projective / US - 167802",
+    "game_id": "WB2E",
+    "region": "USA (NTSC-U)",
+    "output_dir": "WB2E",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:32:37"
+  },
+  "WB3E": {
+    "game_name": "Strong Bad's Cool Game for Attractive People Episode 5 - 8-Bit Is Enough",
+    "save_folder": "Strong Bad's Cool Game for Attractive People Episode 5 - 8-Bit Is Enough / US - 179402",
+    "game_id": "WB3E",
+    "region": "USA (NTSC-U)",
+    "output_dir": "WB3E",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:32:38"
+  },
+  "JCBM": {
+    "game_name": "Super Mario RPG - Legend of the Seven Stars",
+    "save_folder": "Super Mario RPG - Legend of the Seven Stars / EU - 547402",
+    "game_id": "JCBM",
+    "region": "Giappone (import Europa)",
+    "output_dir": "JCBM",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:32:54"
+  },
+  "S3TJ": {
+    "game_name": "Taiko no Tatsujin Wii - Minna de Party * 3-Yome!",
+    "save_folder": "Taiko no Tatsujin Wii - Minna de Party * 3-Yome! / JP - 542602",
+    "game_id": "S3TJ",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "S3TJ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:33:33"
+  },
+  "RT4J": {
+    "game_name": "Tales of Symphonia - Dawn of the New World",
+    "save_folder": "Tales of Symphonia - Dawn of the New World / JP - 132602",
+    "game_id": "RT4J",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "RT4J",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:33:39"
+  },
+  "STHP": {
+    "game_name": "Thor - God of Thunder",
+    "save_folder": "Thor - God of Thunder / US - 540202",
+    "game_id": "STHP",
+    "region": "Europa (PAL)",
+    "output_dir": "STHP",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:33:53"
+  },
+  "RODJ": {
+    "game_name": "WarioWare - Smooth Moves",
+    "save_folder": "WarioWare - Smooth Moves / JP - 179002",
+    "game_id": "RODJ",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "RODJ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:34:15"
+  },
+  "WA4P": {
+    "game_name": "WarioWare D.I.Y. Showcase",
+    "save_folder": "WarioWare D.I.Y. Showcase / EU - 519002",
+    "game_id": "WA4P",
+    "region": "Europa (PAL)",
+    "output_dir": "WA4P",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:34:22"
+  },
+  "WA4E": {
+    "game_name": "WarioWare D.I.Y. Showcase",
+    "save_folder": "WarioWare D.I.Y. Showcase / US - 464602",
+    "game_id": "WA4E",
+    "region": "USA (NTSC-U)",
+    "output_dir": "WA4E",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:34:26"
+  },
+  "RCHE": {
+    "game_name": "We Cheer",
+    "save_folder": "We Cheer / US - 145802",
+    "game_id": "RCHE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RCHE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:35:37"
+  },
+  "R64P": {
+    "game_name": "Wii Music",
+    "save_folder": "Wii Music / EU - 171402",
+    "game_id": "R64P",
+    "region": "Europa (PAL)",
+    "output_dir": "R64P",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:35:39"
+  },
+  "R64E": {
+    "game_name": "Wii Music",
+    "save_folder": "Wii Music / US - 162602",
+    "game_id": "R64E",
+    "region": "USA (NTSC-U)",
+    "output_dir": "R64E",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:35:42"
+  },
+  "RXAP": {
+    "game_name": "WWE SmackDown vs. Raw 2010",
+    "save_folder": "WWE SmackDown vs. Raw 2010 / EU - 503402",
+    "game_id": "RXAP",
+    "region": "Europa (PAL)",
+    "output_dir": "RXAP",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:35:50"
+  },
+  "SX4P": {
+    "game_name": "Xenoblade Chronicles",
+    "save_folder": "Xenoblade Chronicles / EU - 558202",
+    "game_id": "SX4P",
+    "region": "Europa (PAL)",
+    "output_dir": "SX4P",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:35:58"
+  },
+  "SX4E": {
+    "game_name": "Xenoblade Chronicles",
+    "save_folder": "Xenoblade Chronicles / US - 564202",
+    "game_id": "SX4E",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SX4E",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:36:00"
+  },
+  "QABE": {
+    "game_name": "Ys Book I & II",
+    "save_folder": "Ys Book I & II / US - 143802",
+    "game_id": "QABE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "QABE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:36:02"
+  },
+  "RJIP": {
+    "game_name": "[Wii] Ferrari The Race Experience Savegame [49397]",
+    "save_folder": "[Wii] Ferrari The Race Experience Savegame [49397]",
+    "game_id": "RJIP",
+    "region": "Europa (PAL)",
+    "output_dir": "RJIP",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:53:39"
+  },
+  "RGQP": {
+    "game_name": "[Wii] Ghostbusters The Video Game savegame [49403]",
+    "save_folder": "[Wii] Ghostbusters The Video Game savegame [49403]",
+    "game_id": "RGQP",
+    "region": "Europa (PAL)",
+    "output_dir": "RGQP",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:53:44"
+  },
+  "SLRE": {
+    "game_name": "[Wii] Lego Lord of the rings Savegame [49410]",
+    "save_folder": "[Wii] Lego Lord of the rings Savegame [49410]",
+    "game_id": "SLRE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SLRE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:53:51"
+  },
+  "RNEP": {
+    "game_name": "[Wii] Naruto Shippuden  Clash of Ninja Revolution III - European Version Savegame [49420]",
+    "save_folder": "[Wii] Naruto Shippuden  Clash of Ninja Revolution III - European Version Savegame [49420]",
+    "game_id": "RNEP",
+    "region": "Europa (PAL)",
+    "output_dir": "RNEP",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:53:57"
+  },
+  "SKYZ": {
+    "game_name": "[Wii] Skylanders  Spyro's Adventure Save Game [49435]",
+    "save_folder": "[Wii] Skylanders  Spyro's Adventure Save Game [49435]",
+    "game_id": "SKYZ",
+    "region": "Sconosciuta (Z)",
+    "output_dir": "SKYZ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:54:10"
+  },
+  "SSPP": {
+    "game_name": "[Wii] Skylanders Spyro's Adventure Savegame [49434]",
+    "save_folder": "[Wii] Skylanders Spyro's Adventure Savegame [49434]",
+    "game_id": "SSPP",
+    "region": "Europa (PAL)",
+    "output_dir": "SSPP",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:54:11"
+  },
+  "SFQE": {
+    "game_name": "[Wii] Super Soldier Captain America Savegame [49373]",
+    "save_folder": "[Wii] Super Soldier Captain America Savegame [49373]",
+    "game_id": "SFQE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SFQE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:54:17"
+  },
+  "SGHP": {
+    "game_name": "[Wii] Tom Clancy's Ghost Recon Savegame [49401]",
+    "save_folder": "[Wii] Tom Clancy's Ghost Recon Savegame [49401]",
+    "game_id": "SGHP",
+    "region": "Europa (PAL)",
+    "output_dir": "SGHP",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:54:25"
+  },
+  "0012": {
+    "game_name": "Cocoto Fishing Master - Wii Game Save [19429]",
+    "save_folder": "Cocoto Fishing Master - Wii Game Save [19429]",
+    "game_id": "0012",
+    "region": "Sconosciuta (2)",
+    "output_dir": "0012",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:55:53"
+  },
+  "SG2E": {
+    "game_name": "Crazy Mini Golf 2 - Wii Game Save [20481]",
+    "save_folder": "Crazy Mini Golf 2 - Wii Game Save [20481]",
+    "game_id": "SG2E",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SG2E",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:56:01"
+  },
+  "R9FP": {
+    "game_name": "F1 2009 - Wii Game Save [20579]",
+    "save_folder": "F1 2009 - Wii Game Save [20579]",
+    "game_id": "R9FP",
+    "region": "Europa (PAL)",
+    "output_dir": "R9FP",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:57:41"
+  },
+  "RVQE": {
+    "game_name": "Family Fest Presents Movie Games - Wii Game Save [32309]",
+    "save_folder": "Family Fest Presents Movie Games - Wii Game Save [32309]",
+    "game_id": "RVQE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RVQE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:57:43"
+  },
+  "R3JE": {
+    "game_name": "Go Play Circus Star - Wii Game Save [32321]",
+    "save_folder": "Go Play Circus Star - Wii Game Save [32321]",
+    "game_id": "R3JE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "R3JE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:58:15"
+  },
+  "S2HE": {
+    "game_name": "Haunted House - Wii Game Save [32332]",
+    "save_folder": "Haunted House - Wii Game Save [32332]",
+    "game_id": "S2HE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "S2HE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:58:31"
+  },
+  "RLTE": {
+    "game_name": "London Taxi Rush Hour - Wii Game Save [32359]",
+    "save_folder": "London Taxi Rush Hour - Wii Game Save [32359]",
+    "game_id": "RLTE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RLTE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:59:18"
+  },
+  "RK6P": {
+    "game_name": "Marble Saga Kororinpa - Wii Game Save [32365]",
+    "save_folder": "Marble Saga Kororinpa - Wii Game Save [32365]",
+    "game_id": "RK6P",
+    "region": "Europa (PAL)",
+    "output_dir": "RK6P",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 18:59:31"
+  },
+  "RQ7E": {
+    "game_name": "Martian Panic - Wii Game Save [32372]",
+    "save_folder": "Martian Panic - Wii Game Save [32372]",
+    "game_id": "RQ7E",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RQ7E",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 19:00:00"
+  },
+  "SMGE": {
+    "game_name": "Megamind Mega Team Unite - Wii Game Save [32375]",
+    "save_folder": "Megamind Mega Team Unite - Wii Game Save [32375]",
+    "game_id": "SMGE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SMGE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 19:00:04"
+  },
+  "RI7E": {
+    "game_name": "Monster Mayhem Build and Battle - Wii Game Save [32382]",
+    "save_folder": "Monster Mayhem Build and Battle - Wii Game Save [32382]",
+    "game_id": "RI7E",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RI7E",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 19:00:11"
+  },
+  "SN4E": {
+    "game_name": "Naruto Shippuden Dragon Blade Chronicles - Wii Game Save [20942]",
+    "save_folder": "Naruto Shippuden Dragon Blade Chronicles - Wii Game Save [20942]",
+    "game_id": "SN4E",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SN4E",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 19:00:21"
+  },
+  "SBHP": {
+    "game_name": "Naruto Shippuden Gekitou Ninja Taisen Special - Wii Game Save #4 [20948]",
+    "save_folder": "Naruto Shippuden Gekitou Ninja Taisen Special - Wii Game Save #4 [20948]",
+    "game_id": "SBHP",
+    "region": "Europa (PAL)",
+    "output_dir": "SBHP",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 19:00:24"
+  },
+  "PFDB": {
+    "game_name": "NBA Jam - Wii Game Save #1 [19476]",
+    "save_folder": "NBA Jam - Wii Game Save #1 [19476]",
+    "game_id": "PFDB",
+    "region": "Sconosciuta (B)",
+    "output_dir": "PFDB",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 19:00:27"
+  },
+  "R92E": {
+    "game_name": "New Play Control! Pikmin 2 - Wii Game Save [32391]",
+    "save_folder": "New Play Control! Pikmin 2 - Wii Game Save [32391]",
+    "game_id": "R92E",
+    "region": "USA (NTSC-U)",
+    "output_dir": "R92E",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 19:00:38"
+  },
+  "SX3P": {
+    "game_name": "Pandora's Tower - Wii Game Save #1 [21187]",
+    "save_folder": "Pandora's Tower - Wii Game Save #1 [21187]",
+    "game_id": "SX3P",
+    "region": "Europa (PAL)",
+    "output_dir": "SX3P",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 19:01:02"
+  },
+  "SX3E": {
+    "game_name": "Pandora's Tower - Wii Game Save #2 [32396]",
+    "save_folder": "Pandora's Tower - Wii Game Save #2 [32396]",
+    "game_id": "SX3E",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SX3E",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 19:01:03"
+  },
+  "SMFP": {
+    "game_name": "Phineas & Ferb Across The 2nd Dimension - Wii Game Save [21184]",
+    "save_folder": "Phineas & Ferb Across The 2nd Dimension - Wii Game Save [21184]",
+    "game_id": "SMFP",
+    "region": "Europa (PAL)",
+    "output_dir": "SMFP",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 19:01:05"
+  },
+  "SM5E": {
+    "game_name": "Power Rangers Samurai - Wii Game Save [21183]",
+    "save_folder": "Power Rangers Samurai - Wii Game Save [21183]",
+    "game_id": "SM5E",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SM5E",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 19:01:15"
+  },
+  "SOJE": {
+    "game_name": "Rayman Origins - Wii Game Save [33991]",
+    "save_folder": "Rayman Origins - Wii Game Save [33991]",
+    "game_id": "SOJE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SOJE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 19:01:29"
+  },
+  "RUKE": {
+    "game_name": "Rolling Stone Drum King - Wii Game Save [32413]",
+    "save_folder": "Rolling Stone Drum King - Wii Game Save [32413]",
+    "game_id": "RUKE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RUKE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 19:01:50"
+  },
+  "SRUE": {
+    "game_name": "Rudolph The Red-Nosed Reindeer - Wii Game Save [32414]",
+    "save_folder": "Rudolph The Red-Nosed Reindeer - Wii Game Save [32414]",
+    "game_id": "SRUE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SRUE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 19:01:50"
+  },
+  "SO3E": {
+    "game_name": "Rune Factory Tides of Destiny - Wii Game Save [32415]",
+    "save_folder": "Rune Factory Tides of Destiny - Wii Game Save [32415]",
+    "game_id": "SO3E",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SO3E",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 19:01:52"
+  },
+  "RQNE": {
+    "game_name": "Scooby-Doo! First Frights - Wii Game Save [32417]",
+    "save_folder": "Scooby-Doo! First Frights - Wii Game Save [32417]",
+    "game_id": "RQNE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RQNE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 19:01:54"
+  },
+  "RSKE": {
+    "game_name": "Shrek The Third - Wii Game Save [32306]",
+    "save_folder": "Shrek The Third - Wii Game Save [32306]",
+    "game_id": "RSKE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RSKE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 19:02:01"
+  },
+  "SSUE": {
+    "game_name": "Sushi Go Round - Wii Game Save [32444]",
+    "save_folder": "Sushi Go Round - Wii Game Save [32444]",
+    "game_id": "SSUE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SSUE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 19:03:08"
+  },
+  "SAZE": {
+    "game_name": "The Amazing Spider-Man - Wii Game Save [32236]",
+    "save_folder": "The Amazing Spider-Man - Wii Game Save [32236]",
+    "game_id": "SAZE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SAZE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 19:03:12"
+  },
+  "RZRE": {
+    "game_name": "The Destiny of Zorro - Wii Game Save [32293]",
+    "save_folder": "The Destiny of Zorro - Wii Game Save [32293]",
+    "game_id": "RZRE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RZRE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 19:03:15"
+  },
+  "SLSE": {
+    "game_name": "The Last Story - Wii Game Save [32347]",
+    "save_folder": "The Last Story - Wii Game Save [32347]",
+    "game_id": "SLSE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SLSE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 19:03:27"
+  },
+  "0014": {
+    "game_name": "Transformers - Wii Game Save #1 [19464]",
+    "save_folder": "Transformers - Wii Game Save #1 [19464]",
+    "game_id": "0014",
+    "region": "Sconosciuta (4)",
+    "output_dir": "0014",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 19:03:56"
+  },
+  "SLWE": {
+    "game_name": "Where's Waldo The Fantastic Journey - Wii Game Save [32461]",
+    "save_folder": "Where's Waldo The Fantastic Journey - Wii Game Save [32461]",
+    "game_id": "SLWE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SLWE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 19:04:19"
+  },
+  "SSRE": {
+    "game_name": "Wild West Shootout - Wii Game Save [32463]",
+    "save_folder": "Wild West Shootout - Wii Game Save [32463]",
+    "game_id": "SSRE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SSRE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 19:04:25"
+  },
+  "RWZE": {
+    "game_name": "Wonder World Amusement Park - Wii Game Save [32464]",
+    "save_folder": "Wonder World Amusement Park - Wii Game Save [32464]",
+    "game_id": "RWZE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RWZE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 19:04:26"
+  },
+  "S6RE": {
+    "game_name": "Wreck-It Ralph - Wii Game Save [32465]",
+    "save_folder": "Wreck-It Ralph - Wii Game Save [32465]",
+    "game_id": "S6RE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "S6RE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 19:04:27"
+  },
+  "SW6P": {
+    "game_name": "WWE 2012 - Wii Game Save #1 [12341]",
+    "save_folder": "WWE 2012 - Wii Game Save #1 [12341]",
+    "game_id": "SW6P",
+    "region": "Europa (PAL)",
+    "output_dir": "SW6P",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 19:04:28"
+  },
+  "S3XE": {
+    "game_name": "WWE 2013 - Wii Game Save [32467]",
+    "save_folder": "WWE 2013 - Wii Game Save [32467]",
+    "game_id": "S3XE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "S3XE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 19:04:32"
+  },
+  "SG8E": {
+    "game_name": "Yogi Bear - Wii Game Save [20732]",
+    "save_folder": "Yogi Bear - Wii Game Save [20732]",
+    "game_id": "SG8E",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SG8E",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 19:04:40"
+  },
+  "WZPE": {
+    "game_name": "Zombie Panic In Wonderland - Wii Game Save [32470]",
+    "save_folder": "Zombie Panic In Wonderland - Wii Game Save [32470]",
+    "game_id": "WZPE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "WZPE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-22 19:04:50"
   }
 }
