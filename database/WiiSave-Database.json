@@ -10750,5 +10750,1973 @@
     },
     "animated": false,
     "timestamp": "2026-08-22 19:04:50"
+  },
+  "SQMP": {
+    "game_name": "!Other",
+    "save_folder": "!Other\\Europe - Gamesaver - 100_ Done,Suits And Upgrades Unlocked",
+    "game_id": "SQMP",
+    "region": "Europa (PAL)",
+    "output_dir": "SQMP",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 00:06:54"
+  },
+  "RKPY": {
+    "game_name": "!Other",
+    "save_folder": "!Other\\Europe - MYSTIKO - Kung Fu Panda 100_ done!",
+    "game_id": "RKPY",
+    "region": "PAL (varie)",
+    "output_dir": "RKPY",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 00:06:54"
+  },
+  "RUGP": {
+    "game_name": "!Other",
+    "save_folder": "!Other\\Europe - S4v6-Plu5 - Goosebumps HorrorLand 100_ Survived!",
+    "game_id": "RUGP",
+    "region": "Europa (PAL)",
+    "output_dir": "RUGP",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 00:06:54"
+  },
+  "SCDP": {
+    "game_name": "!Other",
+    "save_folder": "!Other\\Europe - wsave1963 - Cabela_s Dangerous Hunts 2011-Game 100_(PAL)",
+    "game_id": "SCDP",
+    "region": "Europa (PAL)",
+    "output_dir": "SCDP",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 00:06:54"
+  },
+  "SFIP": {
+    "game_name": "!Other",
+    "save_folder": "!Other\\Europe - wsave1963 - Mystery Case Files_The Malgrave Incident-PAL_Game Complete",
+    "game_id": "SFIP",
+    "region": "Europa (PAL)",
+    "output_dir": "SFIP",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 00:06:54"
+  },
+  "R8XZ": {
+    "game_name": "!Other",
+    "save_folder": "!Other\\Europe - wsave1963 - Top Shot_Dinosaur Hunter-Game 100_",
+    "game_id": "R8XZ",
+    "region": "Sconosciuta (Z)",
+    "output_dir": "R8XZ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 00:06:54"
+  },
+  "SC8P": {
+    "game_name": "!Other",
+    "save_folder": "!Other\\Europe - wsave1963 - Wii Play_Motion-PAL_All Platinum Medals,Unlock Loony Cycle",
+    "game_id": "SC8P",
+    "region": "Europa (PAL)",
+    "output_dir": "SC8P",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 00:06:54"
+  },
+  "SX3J": {
+    "game_name": "!Other",
+    "save_folder": "!Other\\Japan - Agito - 6th Tower Boss",
+    "game_id": "SX3J",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "SX3J",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 00:06:54"
+  },
+  "SC8J": {
+    "game_name": "!Other",
+    "save_folder": "!Other\\Japan - wsave1963 - Wii Play_Motion-Jpn_All Platinum Medals,Unlock Loony Cycle",
+    "game_id": "SC8J",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "SC8J",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 00:06:54"
+  },
+  "SC8E": {
+    "game_name": "!Other",
+    "save_folder": "!Other\\USA - baybephace - Wii Play_ Motion (SC8E01) - All Games Unlocked (PROPER)",
+    "game_id": "SC8E",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SC8E",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 00:06:54"
+  },
+  "R8DE": {
+    "game_name": "!Other",
+    "save_folder": "!Other\\USA - Croxyndul - yu-gi-oh 5d_s duel transer complete game and new game with all cards_",
+    "game_id": "R8DE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "R8DE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 00:06:55"
+  },
+  "STRE": {
+    "game_name": "!Other",
+    "save_folder": "!Other\\USA - Damntoohard - Tron_Evolution - Battle Grids (Standard ver.) STRE 100 _",
+    "game_id": "STRE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "STRE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 00:06:55"
+  },
+  "RNXE": {
+    "game_name": "!Other",
+    "save_folder": "!Other\\USA - HECTOR - Naruto Clash Of Ninja Revolution 100_",
+    "game_id": "RNXE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RNXE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 00:06:55"
+  },
+  "STRX": {
+    "game_name": "!Other",
+    "save_folder": "!Other\\USA - jektezak - 100_ Complete",
+    "game_id": "STRX",
+    "region": "PAL (varie)",
+    "output_dir": "STRX",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 00:06:55"
+  },
+  "JDAE": {
+    "game_name": "!Other",
+    "save_folder": "!Other\\USA - Lacan - JDAE_ SNES Final Fantasy III--100_ save",
+    "game_id": "JDAE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "JDAE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 00:06:55"
+  },
+  "WB4E": {
+    "game_name": "!Other",
+    "save_folder": "!Other\\USA - MIDNITE - WILD WEST GUNS",
+    "game_id": "WB4E",
+    "region": "USA (NTSC-U)",
+    "output_dir": "WB4E",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 00:06:55"
+  },
+  "STSE": {
+    "game_name": "!Other",
+    "save_folder": "!Other\\USA - Sebaxxwii - 100_",
+    "game_id": "STSE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "STSE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 00:06:55"
+  },
+  "FWVZ": {
+    "game_name": "!Other",
+    "save_folder": "!Other\\USA - sushiplatter - Dragon Warrior Lvl 30",
+    "game_id": "FWVZ",
+    "region": "Sconosciuta (Z)",
+    "output_dir": "FWVZ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 00:06:55"
+  },
+  "RJSE": {
+    "game_name": "!Other",
+    "save_folder": "!Other\\USA - WII KID - Kawasaki Jet Ski (RJSE) - GAME COMPLETED AT 99_ OR 100_",
+    "game_id": "RJSE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RJSE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 00:06:56"
+  },
+  "RQZE": {
+    "game_name": "!Other",
+    "save_folder": "!Other\\USA - WII KID - Monster Stunt Racer 4x4 (RQZE) - 100_ COMPLETED",
+    "game_id": "RQZE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RQZE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 00:06:56"
+  },
+  "R69E": {
+    "game_name": "!Other",
+    "save_folder": "!Other\\USA - WII KID - R69E - Dirt 2_ GAME 100_ COMPLETED",
+    "game_id": "R69E",
+    "region": "USA (NTSC-U)",
+    "output_dir": "R69E",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 00:06:56"
+  },
+  "SHSE": {
+    "game_name": "!Other",
+    "save_folder": "!Other\\USA - WII KID - SHSE - HYPER FIGHTERS_ 100_ COMPLETED",
+    "game_id": "SHSE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SHSE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 00:06:56"
+  },
+  "W3FE": {
+    "game_name": "!Other",
+    "save_folder": "!Other\\USA - WII KID - W3FE - 3D PIXEL RACING_ GAME 100_ COMPLETED",
+    "game_id": "W3FE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "W3FE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 00:06:56"
+  },
+  "WMRE": {
+    "game_name": "!Other",
+    "save_folder": "!Other\\USA - WII KID - WMRE - Monochrome Racing_  100_ COMPLETED",
+    "game_id": "WMRE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "WMRE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 00:06:56"
+  },
+  "SRVE": {
+    "game_name": "!Other",
+    "save_folder": "!Other\\USA - wiirules1989 - SRVE - 100_ Completed!!!",
+    "game_id": "SRVE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SRVE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 00:06:56"
+  },
+  "SH6E": {
+    "game_name": "!Other",
+    "save_folder": "!Other\\USA - wsave1963 - Cabela_s Big Game Hunter 2012-Game 100_",
+    "game_id": "SH6E",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SH6E",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 00:06:56"
+  },
+  "SHUE": {
+    "game_name": "!Other",
+    "save_folder": "!Other\\USA - wsave1963 - Cabela_s Dangerous Hunts 2011(Special Edition)-Game 100_",
+    "game_id": "SHUE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SHUE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 00:06:56"
+  },
+  "RQPZ": {
+    "game_name": "!Other",
+    "save_folder": "!Other\\USA - wsave1963 - Cabela_s Monster Buck Hunter_Game 100_",
+    "game_id": "RQPZ",
+    "region": "Sconosciuta (Z)",
+    "output_dir": "RQPZ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 00:06:56"
+  },
+  "SFIE": {
+    "game_name": "!Other",
+    "save_folder": "!Other\\USA - wsave1963 - Mystery Case Files_The Malgrave Incident-Game Complete",
+    "game_id": "SFIE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SFIE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 00:06:56"
+  },
+  "RKPE": {
+    "game_name": "!Other",
+    "save_folder": "!Other\\USA - XxlaloxX - ALL 100_ IN ALL DIFFICULTIES",
+    "game_id": "RKPE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RKPE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 00:06:56"
+  },
+  "SKNE": {
+    "game_name": "164605-skylanders-superchargers-racing",
+    "save_folder": "164605-skylanders-superchargers-racing",
+    "game_id": "SKNE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SKNE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:43"
+  },
+  "SEVP": {
+    "game_name": "294017-shakedown-hawaii",
+    "save_folder": "294017-shakedown-hawaii",
+    "game_id": "SEVP",
+    "region": "Europa (PAL)",
+    "output_dir": "SEVP",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:43"
+  },
+  "SCIP": {
+    "game_name": "605046-csi-crime-scene-investigation-fatal-conspiracy",
+    "save_folder": "605046-csi-crime-scene-investigation-fatal-conspiracy",
+    "game_id": "SCIP",
+    "region": "Europa (PAL)",
+    "output_dir": "SCIP",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:43"
+  },
+  "SOIE": {
+    "game_name": "605275-101-in-1-sports-party-megamix",
+    "save_folder": "605275-101-in-1-sports-party-megamix",
+    "game_id": "SOIE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SOIE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:43"
+  },
+  "SHVE": {
+    "game_name": "605377-hot-wheels-track-attack",
+    "save_folder": "605377-hot-wheels-track-attack",
+    "game_id": "SHVE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SHVE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:43"
+  },
+  "SNME": {
+    "game_name": "605729-namco-museum-megamix",
+    "save_folder": "605729-namco-museum-megamix",
+    "game_id": "SNME",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SNME",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:43"
+  },
+  "SOMJ": {
+    "game_name": "609557-rhythm-heaven-fever",
+    "save_folder": "609557-rhythm-heaven-fever",
+    "game_id": "SOMJ",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "SOMJ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:43"
+  },
+  "SOMP": {
+    "game_name": "609557-rhythm-heaven-fever",
+    "save_folder": "609557-rhythm-heaven-fever",
+    "game_id": "SOMP",
+    "region": "Europa (PAL)",
+    "output_dir": "SOMP",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:43"
+  },
+  "SOMK": {
+    "game_name": "609557-rhythm-heaven-fever",
+    "save_folder": "609557-rhythm-heaven-fever",
+    "game_id": "SOMK",
+    "region": "Corea",
+    "output_dir": "SOMK",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:43"
+  },
+  "WCKE": {
+    "game_name": "610675-chick-chick-boom",
+    "save_folder": "610675-chick-chick-boom",
+    "game_id": "WCKE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "WCKE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:43"
+  },
+  "SQLE": {
+    "game_name": "611212-cartoon-network-punch-time-explosion-xl",
+    "save_folder": "611212-cartoon-network-punch-time-explosion-xl",
+    "game_id": "SQLE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SQLE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:43"
+  },
+  "WFLP": {
+    "game_name": "611875-fluidity",
+    "save_folder": "611875-fluidity",
+    "game_id": "WFLP",
+    "region": "Europa (PAL)",
+    "output_dir": "WFLP",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:43"
+  },
+  "SCJE": {
+    "game_name": "612247-lego-pirates-of-the-caribbean-the-video-game",
+    "save_folder": "612247-lego-pirates-of-the-caribbean-the-video-game",
+    "game_id": "SCJE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SCJE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:43"
+  },
+  "SROE": {
+    "game_name": "619486-rodea-the-sky-soldier",
+    "save_folder": "619486-rodea-the-sky-soldier",
+    "game_id": "SROE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SROE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:43"
+  },
+  "SRIE": {
+    "game_name": "621459-rio",
+    "save_folder": "621459-rio",
+    "game_id": "SRIE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SRIE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:43"
+  },
+  "SSPE": {
+    "game_name": "622840-skylanders-spyros-adventure",
+    "save_folder": "622840-skylanders-spyros-adventure",
+    "game_id": "SSPE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SSPE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:44"
+  },
+  "SRJJ": {
+    "game_name": "626306-super-sentai-battle-ranger-cross",
+    "save_folder": "626306-super-sentai-battle-ranger-cross",
+    "game_id": "SRJJ",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "SRJJ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:44"
+  },
+  "SCPE": {
+    "game_name": "627446-centipede-infestation",
+    "save_folder": "627446-centipede-infestation",
+    "game_id": "SCPE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SCPE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:44"
+  },
+  "SIIE": {
+    "game_name": "627574-mario-and-sonic-at-the-london-2012-olympic-games",
+    "save_folder": "627574-mario-and-sonic-at-the-london-2012-olympic-games",
+    "game_id": "SIIE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SIIE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:44"
+  },
+  "SIIP": {
+    "game_name": "627574-mario-and-sonic-at-the-london-2012-olympic-games",
+    "save_folder": "627574-mario-and-sonic-at-the-london-2012-olympic-games",
+    "game_id": "SIIP",
+    "region": "Europa (PAL)",
+    "output_dir": "SIIP",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:44"
+  },
+  "SIIK": {
+    "game_name": "627574-mario-and-sonic-at-the-london-2012-olympic-games",
+    "save_folder": "627574-mario-and-sonic-at-the-london-2012-olympic-games",
+    "game_id": "SIIK",
+    "region": "Corea",
+    "output_dir": "SIIK",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:44"
+  },
+  "SNVE": {
+    "game_name": "628146-need-for-speed-the-run",
+    "save_folder": "628146-need-for-speed-the-run",
+    "game_id": "SNVE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SNVE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:44"
+  },
+  "ST7E": {
+    "game_name": "632973-fortune-street",
+    "save_folder": "632973-fortune-street",
+    "game_id": "ST7E",
+    "region": "USA (NTSC-U)",
+    "output_dir": "ST7E",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:44"
+  },
+  "SSQP": {
+    "game_name": "632974-mario-party-9",
+    "save_folder": "632974-mario-party-9",
+    "game_id": "SSQP",
+    "region": "Europa (PAL)",
+    "output_dir": "SSQP",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:44"
+  },
+  "SURE": {
+    "game_name": "633246-dancedancerevolution-ii",
+    "save_folder": "633246-dancedancerevolution-ii",
+    "game_id": "SURE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SURE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:44"
+  },
+  "STJJ": {
+    "game_name": "642446-taiko-no-tatsujin-wii-ketteiban",
+    "save_folder": "642446-taiko-no-tatsujin-wii-ketteiban",
+    "game_id": "STJJ",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "STJJ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:44"
+  },
+  "S2LE": {
+    "game_name": "643006-pokepark-2-wonders-beyond",
+    "save_folder": "643006-pokepark-2-wonders-beyond",
+    "game_id": "S2LE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "S2LE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:44"
+  },
+  "SAUJ": {
+    "game_name": "643303-puyo-puyo-20th-anniversary",
+    "save_folder": "643303-puyo-puyo-20th-anniversary",
+    "game_id": "SAUJ",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "SAUJ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:44"
+  },
+  "STFE": {
+    "game_name": "663926-transformers-prime-the-game",
+    "save_folder": "663926-transformers-prime-the-game",
+    "game_id": "STFE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "STFE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:44"
+  },
+  "SKYE": {
+    "game_name": "666531-skylanders-giants",
+    "save_folder": "666531-skylanders-giants",
+    "game_id": "SKYE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SKYE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:44"
+  },
+  "SKYY": {
+    "game_name": "666531-skylanders-giants",
+    "save_folder": "666531-skylanders-giants",
+    "game_id": "SKYY",
+    "region": "PAL (varie)",
+    "output_dir": "SKYY",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:44"
+  },
+  "0000": {
+    "game_name": "672706-lego-the-lord-of-the-rings",
+    "save_folder": "672706-lego-the-lord-of-the-rings",
+    "game_id": "0000",
+    "region": "Sconosciuta (0)",
+    "output_dir": "0000",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:44"
+  },
+  "S5KJ": {
+    "game_name": "681702-taiko-no-tatsujin-wii-chougoukaban",
+    "save_folder": "681702-taiko-no-tatsujin-wii-chougoukaban",
+    "game_id": "S5KJ",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "S5KJ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:44"
+  },
+  "S5SJ": {
+    "game_name": "683845-inazuma-eleven-go-strikers-2013",
+    "save_folder": "683845-inazuma-eleven-go-strikers-2013",
+    "game_id": "S5SJ",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "S5SJ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:44"
+  },
+  "SQIE": {
+    "game_name": "699797-disney-infinity",
+    "save_folder": "699797-disney-infinity",
+    "game_id": "SQIE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SQIE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:44"
+  },
+  "SVXE": {
+    "game_name": "702773-skylanders-swap-force",
+    "save_folder": "702773-skylanders-swap-force",
+    "game_id": "SVXE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SVXE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:44"
+  },
+  "SVXX": {
+    "game_name": "702773-skylanders-swap-force",
+    "save_folder": "702773-skylanders-swap-force",
+    "game_id": "SVXX",
+    "region": "PAL (varie)",
+    "output_dir": "SVXX",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:44"
+  },
+  "SAWE": {
+    "game_name": "705902-angry-birds-trilogy",
+    "save_folder": "705902-angry-birds-trilogy",
+    "game_id": "SAWE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SAWE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:44"
+  },
+  "SK8E": {
+    "game_name": "789630-skylanders-trap-team",
+    "save_folder": "789630-skylanders-trap-team",
+    "game_id": "SK8E",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SK8E",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:44"
+  },
+  "RSBJ": {
+    "game_name": "928518-super-smash-bros-brawl",
+    "save_folder": "928518-super-smash-bros-brawl",
+    "game_id": "RSBJ",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "RSBJ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:45"
+  },
+  "RSBK": {
+    "game_name": "928518-super-smash-bros-brawl",
+    "save_folder": "928518-super-smash-bros-brawl",
+    "game_id": "RSBK",
+    "region": "Corea",
+    "output_dir": "RSBK",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:45"
+  },
+  "RSRJ": {
+    "game_name": "932811-sonic-and-the-secret-rings",
+    "save_folder": "932811-sonic-and-the-secret-rings",
+    "game_id": "RSRJ",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "RSRJ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:45"
+  },
+  "RDBJ": {
+    "game_name": "932846-dragon-ball-z-budokai-tenkaichi-2",
+    "save_folder": "932846-dragon-ball-z-budokai-tenkaichi-2",
+    "game_id": "RDBJ",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "RDBJ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:46"
+  },
+  "RHFE": {
+    "game_name": "932874-happy-feet",
+    "save_folder": "932874-happy-feet",
+    "game_id": "RHFE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RHFE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:46"
+  },
+  "RELP": {
+    "game_name": "933005-elebits",
+    "save_folder": "933005-elebits",
+    "game_id": "RELP",
+    "region": "Europa (PAL)",
+    "output_dir": "RELP",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:46"
+  },
+  "RELE": {
+    "game_name": "933005-elebits",
+    "save_folder": "933005-elebits",
+    "game_id": "RELE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RELE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:46"
+  },
+  "RC4J": {
+    "game_name": "935516-crayon-shin-chan-saikyou-kazoku-kasukabe-king-wii",
+    "save_folder": "935516-crayon-shin-chan-saikyou-kazoku-kasukabe-king-wii",
+    "game_id": "RC4J",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "RC4J",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:50"
+  },
+  "RU5E": {
+    "game_name": "935578-wing-island",
+    "save_folder": "935578-wing-island",
+    "game_id": "RU5E",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RU5E",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:50"
+  },
+  "R2AE": {
+    "game_name": "935597-ice-age-2-the-meltdown",
+    "save_folder": "935597-ice-age-2-the-meltdown",
+    "game_id": "R2AE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "R2AE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:50"
+  },
+  "RM8K": {
+    "game_name": "935598-mario-party-8",
+    "save_folder": "935598-mario-party-8",
+    "game_id": "RM8K",
+    "region": "Corea",
+    "output_dir": "RM8K",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:50"
+  },
+  "SUKP": {
+    "game_name": "935607-kirbys-return-to-dream-land",
+    "save_folder": "935607-kirbys-return-to-dream-land",
+    "game_id": "SUKP",
+    "region": "Europa (PAL)",
+    "output_dir": "SUKP",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:50"
+  },
+  "RCOP": {
+    "game_name": "937679-case-closed-one-truth-prevails-the-mirapolis-investigation",
+    "save_folder": "937679-case-closed-one-truth-prevails-the-mirapolis-investigation",
+    "game_id": "RCOP",
+    "region": "Europa (PAL)",
+    "output_dir": "RCOP",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:50"
+  },
+  "RDTE": {
+    "game_name": "937813-tamagotchi-party-on",
+    "save_folder": "937813-tamagotchi-party-on",
+    "game_id": "RDTE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RDTE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:50"
+  },
+  "RVIE": {
+    "game_name": "937916-bionicle-heroes",
+    "save_folder": "937916-bionicle-heroes",
+    "game_id": "RVIE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RVIE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:50"
+  },
+  "RDDJ": {
+    "game_name": "938140-dance-dance-revolution-hottest-party",
+    "save_folder": "938140-dance-dance-revolution-hottest-party",
+    "game_id": "RDDJ",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "RDDJ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:51"
+  },
+  "RDRE": {
+    "game_name": "938142-dewys-adventure",
+    "save_folder": "938142-dewys-adventure",
+    "game_id": "RDRE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RDRE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:51"
+  },
+  "RNGJ": {
+    "game_name": "938314-negima-neo-pactio-fight",
+    "save_folder": "938314-negima-neo-pactio-fight",
+    "game_id": "RNGJ",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "RNGJ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:51"
+  },
+  "RMPE": {
+    "game_name": "939498-mlb-power-pros",
+    "save_folder": "939498-mlb-power-pros",
+    "game_id": "RMPE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RMPE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:52"
+  },
+  "RGNJ": {
+    "game_name": "939499-gintama-yorozuya-chuubu",
+    "save_folder": "939499-gintama-yorozuya-chuubu",
+    "game_id": "RGNJ",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "RGNJ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:52"
+  },
+  "RN2E": {
+    "game_name": "939606-namco-museum-remix",
+    "save_folder": "939606-namco-museum-remix",
+    "game_id": "RN2E",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RN2E",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:53"
+  },
+  "RNPK": {
+    "game_name": "939803-need-for-speed-prostreet",
+    "save_folder": "939803-need-for-speed-prostreet",
+    "game_id": "RNPK",
+    "region": "Corea",
+    "output_dir": "RNPK",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:53"
+  },
+  "RK4J": {
+    "game_name": "939913-kekkaishi",
+    "save_folder": "939913-kekkaishi",
+    "game_id": "RK4J",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "RK4J",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:53"
+  },
+  "RBRE": {
+    "game_name": "941651-blast-works-build-trade-destroy",
+    "save_folder": "941651-blast-works-build-trade-destroy",
+    "game_id": "RBRE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RBRE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:53"
+  },
+  "RO7E": {
+    "game_name": "941699-the-legend-of-spyro-the-eternal-night",
+    "save_folder": "941699-the-legend-of-spyro-the-eternal-night",
+    "game_id": "RO7E",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RO7E",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:53"
+  },
+  "RMCJ": {
+    "game_name": "942008-mario-kart-wii",
+    "save_folder": "942008-mario-kart-wii",
+    "game_id": "RMCJ",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "RMCJ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:54"
+  },
+  "RMCK": {
+    "game_name": "942008-mario-kart-wii",
+    "save_folder": "942008-mario-kart-wii",
+    "game_id": "RMCK",
+    "region": "Corea",
+    "output_dir": "RMCK",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:54"
+  },
+  "RIZE": {
+    "game_name": "942038-indianapolis-500-legends",
+    "save_folder": "942038-indianapolis-500-legends",
+    "game_id": "RIZE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RIZE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:54"
+  },
+  "REMJ": {
+    "game_name": "942309-doraemon-wii-himitsu-douguou-ketteisen",
+    "save_folder": "942309-doraemon-wii-himitsu-douguou-ketteisen",
+    "game_id": "REMJ",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "REMJ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:54"
+  },
+  "RHWP": {
+    "game_name": "943310-hot-wheels-beat-that",
+    "save_folder": "943310-hot-wheels-beat-that",
+    "game_id": "RHWP",
+    "region": "Europa (PAL)",
+    "output_dir": "RHWP",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:54"
+  },
+  "RTTJ": {
+    "game_name": "943633-tamagotchi-no-furifuri-kagekidan",
+    "save_folder": "943633-tamagotchi-no-furifuri-kagekidan",
+    "game_id": "RTTJ",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "RTTJ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:54"
+  },
+  "RGAE": {
+    "game_name": "944155-planet-51-the-game",
+    "save_folder": "944155-planet-51-the-game",
+    "game_id": "RGAE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RGAE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:55"
+  },
+  "RKAE": {
+    "game_name": "944449-ultimate-shooting-collection",
+    "save_folder": "944449-ultimate-shooting-collection",
+    "game_id": "RKAE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RKAE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:55"
+  },
+  "RB6J": {
+    "game_name": "945463-bomberman-blast",
+    "save_folder": "945463-bomberman-blast",
+    "game_id": "RB6J",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "RB6J",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:56"
+  },
+  "RSVJ": {
+    "game_name": "945572-sonic-unleashed",
+    "save_folder": "945572-sonic-unleashed",
+    "game_id": "RSVJ",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "RSVJ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:56"
+  },
+  "RSEJ": {
+    "game_name": "945685-soul-eater-monotone-princess",
+    "save_folder": "945685-soul-eater-monotone-princess",
+    "game_id": "RSEJ",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "RSEJ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:56"
+  },
+  "RO8E": {
+    "game_name": "945952-the-legend-of-spyro-dawn-of-the-dragon",
+    "save_folder": "945952-the-legend-of-spyro-dawn-of-the-dragon",
+    "game_id": "RO8E",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RO8E",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:56"
+  },
+  "RL8E": {
+    "game_name": "946225-mlb-power-pros-2008",
+    "save_folder": "946225-mlb-power-pros-2008",
+    "game_id": "RL8E",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RL8E",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:56"
+  },
+  "RZZJ": {
+    "game_name": "946343-madworld",
+    "save_folder": "946343-madworld",
+    "game_id": "RZZJ",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "RZZJ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:56"
+  },
+  "RVLP": {
+    "game_name": "946369-rock-revolution",
+    "save_folder": "946369-rock-revolution",
+    "game_id": "RVLP",
+    "region": "Europa (PAL)",
+    "output_dir": "RVLP",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:56"
+  },
+  "RD4J": {
+    "game_name": "946371-dance-dance-revolution-hottest-party-2",
+    "save_folder": "946371-dance-dance-revolution-hottest-party-2",
+    "game_id": "RD4J",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "RD4J",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:56"
+  },
+  "RKLE": {
+    "game_name": "948789-coraline",
+    "save_folder": "948789-coraline",
+    "game_id": "RKLE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RKLE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:56"
+  },
+  "RX9K": {
+    "game_name": "948967-need-for-speed-undercover",
+    "save_folder": "948967-need-for-speed-undercover",
+    "game_id": "RX9K",
+    "region": "Corea",
+    "output_dir": "RX9K",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:57"
+  },
+  "ROTE": {
+    "game_name": "951591-twin-strike-operation-thunder",
+    "save_folder": "951591-twin-strike-operation-thunder",
+    "game_id": "ROTE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "ROTE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:57"
+  },
+  "STKJ": {
+    "game_name": "953921-tatsunoko-vs-capcom-ultimate-all-stars",
+    "save_folder": "953921-tatsunoko-vs-capcom-ultimate-all-stars",
+    "game_id": "STKJ",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "STKJ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:57"
+  },
+  "RFFE": {
+    "game_name": "954342-final-fantasy-crystal-chronicles-echoes-of-time",
+    "save_folder": "954342-final-fantasy-crystal-chronicles-echoes-of-time",
+    "game_id": "RFFE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RFFE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:57"
+  },
+  "R7PJ": {
+    "game_name": "954363-punch-out",
+    "save_folder": "954363-punch-out",
+    "game_id": "R7PJ",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "R7PJ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:57"
+  },
+  "R22P": {
+    "game_name": "954374-flingsmash",
+    "save_folder": "954374-flingsmash",
+    "game_id": "R22P",
+    "region": "Europa (PAL)",
+    "output_dir": "R22P",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:57"
+  },
+  "R22E": {
+    "game_name": "954374-flingsmash",
+    "save_folder": "954374-flingsmash",
+    "game_id": "R22E",
+    "region": "USA (NTSC-U)",
+    "output_dir": "R22E",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:57"
+  },
+  "RHKE": {
+    "game_name": "954980-help-wanted-50-wacky-jobs",
+    "save_folder": "954980-help-wanted-50-wacky-jobs",
+    "game_id": "RHKE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RHKE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:58"
+  },
+  "WPDJ": {
+    "game_name": "956907-chin-douchuu-paul-no-daibouken",
+    "save_folder": "956907-chin-douchuu-paul-no-daibouken",
+    "game_id": "WPDJ",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "WPDJ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:58"
+  },
+  "R3NP": {
+    "game_name": "957567-guilty-gear-xx-accent-core-plus",
+    "save_folder": "957567-guilty-gear-xx-accent-core-plus",
+    "game_id": "R3NP",
+    "region": "Europa (PAL)",
+    "output_dir": "R3NP",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:58"
+  },
+  "R7XE": {
+    "game_name": "957703-need-for-speed-nitro",
+    "save_folder": "957703-need-for-speed-nitro",
+    "game_id": "R7XE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "R7XE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:58"
+  },
+  "ROLE": {
+    "game_name": "958083-mario-and-sonic-at-the-olympic-winter-games",
+    "save_folder": "958083-mario-and-sonic-at-the-olympic-winter-games",
+    "game_id": "ROLE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "ROLE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:58"
+  },
+  "ROLK": {
+    "game_name": "958083-mario-and-sonic-at-the-olympic-winter-games",
+    "save_folder": "958083-mario-and-sonic-at-the-olympic-winter-games",
+    "game_id": "ROLK",
+    "region": "Corea",
+    "output_dir": "ROLK",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:58"
+  },
+  "R9OE": {
+    "game_name": "958262-tiger-woods-pga-tour-10",
+    "save_folder": "958262-tiger-woods-pga-tour-10",
+    "game_id": "R9OE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "R9OE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:59"
+  },
+  "RJXE": {
+    "game_name": "958278-go-play-lumberjacks",
+    "save_folder": "958278-go-play-lumberjacks",
+    "game_id": "RJXE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RJXE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:59"
+  },
+  "RQCE": {
+    "game_name": "958286-the-munchables",
+    "save_folder": "958286-the-munchables",
+    "game_id": "RQCE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RQCE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:59"
+  },
+  "SBDP": {
+    "game_name": "958780-resident-evil-the-darkside-chronicles",
+    "save_folder": "958780-resident-evil-the-darkside-chronicles",
+    "game_id": "SBDP",
+    "region": "Europa (PAL)",
+    "output_dir": "SBDP",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:59"
+  },
+  "R5IE": {
+    "game_name": "959016-disney-pixar-toy-story-mania",
+    "save_folder": "959016-disney-pixar-toy-story-mania",
+    "game_id": "R5IE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "R5IE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:59"
+  },
+  "SFOE": {
+    "game_name": "959890-food-network-cook-or-be-cooked",
+    "save_folder": "959890-food-network-cook-or-be-cooked",
+    "game_id": "SFOE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SFOE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:59"
+  },
+  "R2YE": {
+    "game_name": "960213-birthday-party-bash",
+    "save_folder": "960213-birthday-party-bash",
+    "game_id": "R2YE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "R2YE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:33:59"
+  },
+  "R8IE": {
+    "game_name": "960334-spongebobs-truth-or-square",
+    "save_folder": "960334-spongebobs-truth-or-square",
+    "game_id": "R8IE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "R8IE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:34:00"
+  },
+  "RL4E": {
+    "game_name": "960441-lego-indiana-jones-2-the-adventure-continues",
+    "save_folder": "960441-lego-indiana-jones-2-the-adventure-continues",
+    "game_id": "RL4E",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RL4E",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:34:00"
+  },
+  "KMNP": {
+    "game_name": "960544-new-super-mario-bros-wii",
+    "save_folder": "960544-new-super-mario-bros-wii",
+    "game_id": "KMNP",
+    "region": "Europa (PAL)",
+    "output_dir": "KMNP",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:34:00"
+  },
+  "SMNK": {
+    "game_name": "960544-new-super-mario-bros-wii",
+    "save_folder": "960544-new-super-mario-bros-wii",
+    "game_id": "SMNK",
+    "region": "Corea",
+    "output_dir": "SMNK",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:34:00"
+  },
+  "SB4K": {
+    "game_name": "960551-super-mario-galaxy-2",
+    "save_folder": "960551-super-mario-galaxy-2",
+    "game_id": "SB4K",
+    "region": "Corea",
+    "output_dir": "SB4K",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:34:00"
+  },
+  "RR3E": {
+    "game_name": "960634-ultimate-party-challenge",
+    "save_folder": "960634-ultimate-party-challenge",
+    "game_id": "RR3E",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RR3E",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:34:00"
+  },
+  "WPSP": {
+    "game_name": "960849-pokemon-rumble",
+    "save_folder": "960849-pokemon-rumble",
+    "game_id": "WPSP",
+    "region": "Europa (PAL)",
+    "output_dir": "WPSP",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:34:01"
+  },
+  "SGIE": {
+    "game_name": "971450-gti-club-supermini-festa",
+    "save_folder": "971450-gti-club-supermini-festa",
+    "game_id": "SGIE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SGIE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:34:01"
+  },
+  "R8DJ": {
+    "game_name": "971470-yu-gi-oh-5ds-duel-transer",
+    "save_folder": "971470-yu-gi-oh-5ds-duel-transer",
+    "game_id": "R8DJ",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "R8DJ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:34:01"
+  },
+  "R8LE": {
+    "game_name": "971690-chicken-blaster",
+    "save_folder": "971690-chicken-blaster",
+    "game_id": "R8LE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "R8LE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:34:01"
+  },
+  "RJRJ": {
+    "game_name": "979297-dance-dance-revolution-music-fit",
+    "save_folder": "979297-dance-dance-revolution-music-fit",
+    "game_id": "RJRJ",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "RJRJ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:34:01"
+  },
+  "SRAJ": {
+    "game_name": "981265-radirgy-noa-wii",
+    "save_folder": "981265-radirgy-noa-wii",
+    "game_id": "SRAJ",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "SRAJ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:34:01"
+  },
+  "SR5E": {
+    "game_name": "986327-raving-rabbids-party-collection",
+    "save_folder": "986327-raving-rabbids-party-collection",
+    "game_id": "SR5E",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SR5E",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:34:01"
+  },
+  "SKBE": {
+    "game_name": "995195-kidz-bop-dance-party-the-video-game",
+    "save_folder": "995195-kidz-bop-dance-party-the-video-game",
+    "game_id": "SKBE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SKBE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:34:02"
+  },
+  "SQDE": {
+    "game_name": "995721-gunblade-ny-and-la-machineguns-arcade-hits-pack",
+    "save_folder": "995721-gunblade-ny-and-la-machineguns-arcade-hits-pack",
+    "game_id": "SQDE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SQDE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:34:02"
+  },
+  "SHIJ": {
+    "game_name": "997379-golds-gym-dance-workout",
+    "save_folder": "997379-golds-gym-dance-workout",
+    "game_id": "SHIJ",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "SHIJ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:34:02"
+  },
+  "SNHE": {
+    "game_name": "997709-need-for-speed-hot-pursuit",
+    "save_folder": "997709-need-for-speed-hot-pursuit",
+    "game_id": "SNHE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SNHE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:34:02"
+  },
+  "SR4E": {
+    "game_name": "997721-raving-rabbids-travel-in-time",
+    "save_folder": "997721-raving-rabbids-travel-in-time",
+    "game_id": "SR4E",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SR4E",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:34:02"
+  },
+  "SBBE": {
+    "game_name": "997755-beyblade-metal-fusion-battle-fortress",
+    "save_folder": "997755-beyblade-metal-fusion-battle-fortress",
+    "game_id": "SBBE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SBBE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:34:02"
+  },
+  "SBBJ": {
+    "game_name": "997755-beyblade-metal-fusion-battle-fortress",
+    "save_folder": "997755-beyblade-metal-fusion-battle-fortress",
+    "game_id": "SBBJ",
+    "region": "Giappone (NTSC-J)",
+    "output_dir": "SBBJ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:34:02"
+  },
+  "SP7E": {
+    "game_name": "997759-pac-man-party",
+    "save_folder": "997759-pac-man-party",
+    "game_id": "SP7E",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SP7E",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:34:02"
+  },
+  "RK5K": {
+    "game_name": "997761-kirbys-epic-yarn",
+    "save_folder": "997761-kirbys-epic-yarn",
+    "game_id": "RK5K",
+    "region": "Corea",
+    "output_dir": "RK5K",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:34:02"
+  },
+  "SS4E": {
+    "game_name": "997871-sesame-street-cookies-counting-carnival",
+    "save_folder": "997871-sesame-street-cookies-counting-carnival",
+    "game_id": "SS4E",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SS4E",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:34:02"
+  },
+  "SS3E": {
+    "game_name": "997874-sesame-street-elmos-a-to-zoo-adventure",
+    "save_folder": "997874-sesame-street-elmos-a-to-zoo-adventure",
+    "game_id": "SS3E",
+    "region": "USA (NTSC-U)",
+    "output_dir": "SS3E",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:34:02"
+  },
+  "CRAZ": {
+    "game_name": "478252-crazy-taxi",
+    "save_folder": "478252-crazy-taxi",
+    "game_id": "CRAZ",
+    "region": "Sconosciuta (Z)",
+    "output_dir": "CRAZ",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:35:18"
+  },
+  "DENT": {
+    "game_name": "535837-resident-evil-2",
+    "save_folder": "535837-resident-evil-2",
+    "game_id": "DENT",
+    "region": "USA/Asia (varie)",
+    "output_dir": "DENT",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:35:19"
+  },
+  "RESE": {
+    "game_name": "535837-resident-evil-2",
+    "save_folder": "535837-resident-evil-2",
+    "game_id": "RESE",
+    "region": "USA (NTSC-U)",
+    "output_dir": "RESE",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:35:19"
+  },
+  "RECV": {
+    "game_name": "535839-resident-evil-code-veronica-x",
+    "save_folder": "535839-resident-evil-code-veronica-x",
+    "game_id": "RECV",
+    "region": "Sconosciuta (V)",
+    "output_dir": "RECV",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:35:20"
+  },
+  "NICA": {
+    "game_name": "535839-resident-evil-code-veronica-x",
+    "save_folder": "535839-resident-evil-code-veronica-x",
+    "game_id": "NICA",
+    "region": "Regione libera",
+    "output_dir": "NICA",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:35:20"
+  },
+  "RDCV": {
+    "game_name": "535839-resident-evil-code-veronica-x",
+    "save_folder": "535839-resident-evil-code-veronica-x",
+    "game_id": "RDCV",
+    "region": "Sconosciuta (V)",
+    "output_dir": "RDCV",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:35:20"
+  },
+  "18WH": {
+    "game_name": "545937-18-wheeler-american-pro-trucker",
+    "save_folder": "545937-18-wheeler-american-pro-trucker",
+    "game_id": "18WH",
+    "region": "Olanda (PAL)",
+    "output_dir": "18WH",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:35:22"
+  },
+  "LOAD": {
+    "game_name": "589413-sonic-adventure-dx-directors-cut",
+    "save_folder": "589413-sonic-adventure-dx-directors-cut",
+    "game_id": "LOAD",
+    "region": "Germania (PAL)",
+    "output_dir": "LOAD",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:35:25"
+  },
+  "IKAR": {
+    "game_name": "914452-ikaruga",
+    "save_folder": "914452-ikaruga",
+    "game_id": "IKAR",
+    "region": "Sconosciuta (R)",
+    "output_dir": "IKAR",
+    "files": {
+      "data_bin": "data.bin"
+    },
+    "animated": false,
+    "timestamp": "2026-08-23 02:35:26"
   }
 }
